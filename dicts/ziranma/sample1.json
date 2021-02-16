@@ -1,0 +1,1514 @@
+[
+    {
+        "name": "de",
+        "trans": [
+            "1.      的"
+        ]
+    },
+    {
+        "name": "yi",
+        "trans": [
+            "2.      一"
+        ]
+    },
+    {
+        "name": "bu",
+        "trans": [
+            "3.      不"
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "4.      是"
+        ]
+    },
+    {
+        "name": "le",
+        "trans": [
+            "5.      了"
+        ]
+    },
+    {
+        "name": "rf",
+        "trans": [
+            "6.      人"
+        ]
+    },
+    {
+        "name": "zl",
+        "trans": [
+            "7.      在"
+        ]
+    },
+    {
+        "name": "yb",
+        "trans": [
+            "8.      有"
+        ]
+    },
+    {
+        "name": "wo",
+        "trans": [
+            "9.      我"
+        ]
+    },
+    {
+        "name": "ta",
+        "trans": [
+            "10.      他"
+        ]
+    },
+    {
+        "name": "ve",
+        "trans": [
+            "11.      这"
+        ]
+    },
+    {
+        "name": "wz",
+        "trans": [
+            "12.      为"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "13.      之"
+        ]
+    },
+    {
+        "name": "ll",
+        "trans": [
+            "14.      来"
+        ]
+    },
+    {
+        "name": "da",
+        "trans": [
+            "15.      大"
+        ]
+    },
+    {
+        "name": "yi",
+        "trans": [
+            "16.      以"
+        ]
+    },
+    {
+        "name": "ge",
+        "trans": [
+            "17.      个"
+        ]
+    },
+    {
+        "name": "vs",
+        "trans": [
+            "18.      中"
+        ]
+    },
+    {
+        "name": "uh",
+        "trans": [
+            "19.      上"
+        ]
+    },
+    {
+        "name": "mf",
+        "trans": [
+            "20.      们"
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "21.      到"
+        ]
+    },
+    {
+        "name": "uo",
+        "trans": [
+            "22.      说"
+        ]
+    },
+    {
+        "name": "go",
+        "trans": [
+            "23.      国"
+        ]
+    },
+    {
+        "name": "he",
+        "trans": [
+            "24.      和"
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "25.      地"
+        ]
+    },
+    {
+        "name": "ye",
+        "trans": [
+            "26.      也"
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "27.      子"
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "28.      时"
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "29.      道"
+        ]
+    },
+    {
+        "name": "iu",
+        "trans": [
+            "30.      出"
+        ]
+    },
+    {
+        "name": "er",
+        "trans": [
+            "31.      而"
+        ]
+    },
+    {
+        "name": "yk",
+        "trans": [
+            "32.      要"
+        ]
+    },
+    {
+        "name": "yu",
+        "trans": [
+            "33.      于"
+        ]
+    },
+    {
+        "name": "jq",
+        "trans": [
+            "34.      就"
+        ]
+    },
+    {
+        "name": "xw",
+        "trans": [
+            "35.      下"
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "36.      得"
+        ]
+    },
+    {
+        "name": "ke",
+        "trans": [
+            "37.      可"
+        ]
+    },
+    {
+        "name": "ni",
+        "trans": [
+            "38.      你"
+        ]
+    },
+    {
+        "name": "nm",
+        "trans": [
+            "39.      年"
+        ]
+    },
+    {
+        "name": "ug",
+        "trans": [
+            "40.      生"
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "41.      自"
+        ]
+    },
+    {
+        "name": "hv",
+        "trans": [
+            "42.      会"
+        ]
+    },
+    {
+        "name": "na",
+        "trans": [
+            "43.      那"
+        ]
+    },
+    {
+        "name": "hb",
+        "trans": [
+            "44.      后"
+        ]
+    },
+    {
+        "name": "ng",
+        "trans": [
+            "45.      能"
+        ]
+    },
+    {
+        "name": "dv",
+        "trans": [
+            "46.      对"
+        ]
+    },
+    {
+        "name": "ve",
+        "trans": [
+            "47.      着"
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "48.      事"
+        ]
+    },
+    {
+        "name": "qi",
+        "trans": [
+            "49.      其"
+        ]
+    },
+    {
+        "name": "li",
+        "trans": [
+            "50.      里"
+        ]
+    },
+    {
+        "name": "so",
+        "trans": [
+            "51.      所"
+        ]
+    },
+    {
+        "name": "qu",
+        "trans": [
+            "52.      去"
+        ]
+    },
+    {
+        "name": "yige",
+        "trans": [
+            "1.   一个"
+        ]
+    },
+    {
+        "name": "ufme",
+        "trans": [
+            "2.   什么"
+        ]
+    },
+    {
+        "name": "mzyb",
+        "trans": [
+            "3.   没有"
+        ]
+    },
+    {
+        "name": "ziji",
+        "trans": [
+            "4.   自己"
+        ]
+    },
+    {
+        "name": "womf",
+        "trans": [
+            "5.   我们"
+        ]
+    },
+    {
+        "name": "tamf",
+        "trans": [
+            "6.   他们"
+        ]
+    },
+    {
+        "name": "vidk",
+        "trans": [
+            "7.   知道"
+        ]
+    },
+    {
+        "name": "qill",
+        "trans": [
+            "8.   起来"
+        ]
+    },
+    {
+        "name": "vege",
+        "trans": [
+            "9.   这个"
+        ]
+    },
+    {
+        "name": "uihb",
+        "trans": [
+            "10.   时候"
+        ]
+    },
+    {
+        "name": "veyh",
+        "trans": [
+            "11.   这样"
+        ]
+    },
+    {
+        "name": "zfme",
+        "trans": [
+            "12.   怎么"
+        ]
+    },
+    {
+        "name": "yijy",
+        "trans": [
+            "13.   已经"
+        ]
+    },
+    {
+        "name": "xmzl",
+        "trans": [
+            "14.   现在"
+        ]
+    },
+    {
+        "name": "iull",
+        "trans": [
+            "15.   出来"
+        ]
+    },
+    {
+        "name": "bung",
+        "trans": [
+            "16.   不能"
+        ]
+    },
+    {
+        "name": "hlui",
+        "trans": [
+            "17.   还是"
+        ]
+    },
+    {
+        "name": "buvi",
+        "trans": [
+            "18.   不知"
+        ]
+    },
+    {
+        "name": "keyi",
+        "trans": [
+            "19.   可以"
+        ]
+    },
+    {
+        "name": "nvrf",
+        "trans": [
+            "20.   女人"
+        ]
+    },
+    {
+        "name": "jtde",
+        "trans": [
+            "21.   觉得"
+        ]
+    },
+    {
+        "name": "ynwz",
+        "trans": [
+            "22.   因为"
+        ]
+    },
+    {
+        "name": "nimf",
+        "trans": [
+            "23.   你们"
+        ]
+    },
+    {
+        "name": "hlzi",
+        "trans": [
+            "24.   孩子"
+        ]
+    },
+    {
+        "name": "nage",
+        "trans": [
+            "25.   那个"
+        ]
+    },
+    {
+        "name": "yidm",
+        "trans": [
+            "26.   一点"
+        ]
+    },
+    {
+        "name": "veme",
+        "trans": [
+            "27.   这么"
+        ]
+    },
+    {
+        "name": "keui",
+        "trans": [
+            "28.   可是"
+        ]
+    },
+    {
+        "name": "yivs",
+        "trans": [
+            "29.   一种"
+        ]
+    },
+    {
+        "name": "ldge",
+        "trans": [
+            "30.   两个"
+        ]
+    },
+    {
+        "name": "yjjy",
+        "trans": [
+            "31.   眼睛"
+        ]
+    },
+    {
+        "name": "xnli",
+        "trans": [
+            "32.   心里"
+        ]
+    },
+    {
+        "name": "xwll",
+        "trans": [
+            "33.   下来"
+        ]
+    },
+    {
+        "name": "name",
+        "trans": [
+            "34.   那么"
+        ]
+    },
+    {
+        "name": "hlyb",
+        "trans": [
+            "35.   还有"
+        ]
+    },
+    {
+        "name": "dsxi",
+        "trans": [
+            "36.   东西"
+        ]
+    },
+    {
+        "name": "xmug",
+        "trans": [
+            "37.   先生"
+        ]
+    },
+    {
+        "name": "vexx",
+        "trans": [
+            "38.   这些"
+        ]
+    },
+    {
+        "name": "kjjm",
+        "trans": [
+            "39.   看见"
+        ]
+    },
+    {
+        "name": "yici",
+        "trans": [
+            "40.   一次"
+        ]
+    },
+    {
+        "name": "yemz",
+        "trans": [
+            "41.   也没"
+        ]
+    },
+    {
+        "name": "fuqn",
+        "trans": [
+            "42.   父亲"
+        ]
+    },
+    {
+        "name": "difh",
+        "trans": [
+            "43.   地方"
+        ]
+    },
+    {
+        "name": "hvll",
+        "trans": [
+            "44.   回来"
+        ]
+    },
+    {
+        "name": "ugho",
+        "trans": [
+            "45.   生活"
+        ]
+    },
+    {
+        "name": "vevs",
+        "trans": [
+            "46.   这种"
+        ]
+    },
+    {
+        "name": "goqu",
+        "trans": [
+            "47.   过去"
+        ]
+    },
+    {
+        "name": "rfjw",
+        "trans": [
+            "48.   人家"
+        ]
+    },
+    {
+        "name": "muqn",
+        "trans": [
+            "49.   母亲"
+        ]
+    },
+    {
+        "name": "yiqx",
+        "trans": [
+            "50.   一切"
+        ]
+    },
+    {
+        "name": "njrf",
+        "trans": [
+            "51.   男人"
+        ]
+    },
+    {
+        "name": "gszo",
+        "trans": [
+            "52.   工作"
+        ]
+    },
+    {
+        "name": "viyb",
+        "trans": [
+            "53.   只有"
+        ]
+    },
+    {
+        "name": "ugyn",
+        "trans": [
+            "54.   声音"
+        ]
+    },
+    {
+        "name": "jntm",
+        "trans": [
+            "55.   今天"
+        ]
+    },
+    {
+        "name": "klui",
+        "trans": [
+            "56.   开始"
+        ]
+    },
+    {
+        "name": "uijm",
+        "trans": [
+            "57.   时间"
+        ]
+    },
+    {
+        "name": "jige",
+        "trans": [
+            "58.   几个"
+        ]
+    },
+    {
+        "name": "rugo",
+        "trans": [
+            "59.   如果"
+        ]
+    },
+    {
+        "name": "vsgo",
+        "trans": [
+            "60.   中国"
+        ]
+    },
+    {
+        "name": "djui",
+        "trans": [
+            "61.   但是"
+        ]
+    },
+    {
+        "name": "yihb",
+        "trans": [
+            "62.   以后"
+        ]
+    },
+    {
+        "name": "ybuf",
+        "trans": [
+            "63.   有什"
+        ]
+    },
+    {
+        "name": "ybxx",
+        "trans": [
+            "64.   有些"
+        ]
+    },
+    {
+        "name": "uiqy",
+        "trans": [
+            "65.   事情"
+        ]
+    },
+    {
+        "name": "soyi",
+        "trans": [
+            "66.   所以"
+        ]
+    },
+    {
+        "name": "turj",
+        "trans": [
+            "67.   突然"
+        ]
+    },
+    {
+        "name": "naxx",
+        "trans": [
+            "68.   那些"
+        ]
+    },
+    {
+        "name": "erzi",
+        "trans": [
+            "69.   儿子"
+        ]
+    },
+    {
+        "name": "yidy",
+        "trans": [
+            "70.   一定"
+        ]
+    },
+    {
+        "name": "wzuf",
+        "trans": [
+            "71.   为什"
+        ]
+    },
+    {
+        "name": "wfti",
+        "trans": [
+            "72.   问题"
+        ]
+    },
+    {
+        "name": "ybdm",
+        "trans": [
+            "73.   有点"
+        ]
+    },
+    {
+        "name": "xudo",
+        "trans": [
+            "74.   许多"
+        ]
+    },
+    {
+        "name": "tltl",
+        "trans": [
+            "75.   太太"
+        ]
+    },
+    {
+        "name": "gksu",
+        "trans": [
+            "76.   告诉"
+        ]
+    },
+    {
+        "name": "gjdk",
+        "trans": [
+            "77.   感到"
+        ]
+    },
+    {
+        "name": "dmhw",
+        "trans": [
+            "78.   电话"
+        ]
+    },
+    {
+        "name": "xddk",
+        "trans": [
+            "79.   想到"
+        ]
+    },
+    {
+        "name": "pgyb",
+        "trans": [
+            "80.   朋友"
+        ]
+    },
+    {
+        "name": "zozl",
+        "trans": [
+            "81.   坐在"
+        ]
+    },
+    {
+        "name": "yuui",
+        "trans": [
+            "82.   于是"
+        ]
+    },
+    {
+        "name": "dajw",
+        "trans": [
+            "83.   大家"
+        ]
+    },
+    {
+        "name": "lkui",
+        "trans": [
+            "84.   老师"
+        ]
+    },
+    {
+        "name": "bybu",
+        "trans": [
+            "85.   并不"
+        ]
+    },
+    {
+        "name": "xwqu",
+        "trans": [
+            "86.   下去"
+        ]
+    },
+    {
+        "name": "uohw",
+        "trans": [
+            "87.   说话"
+        ]
+    },
+    {
+        "name": "kjdk",
+        "trans": [
+            "88.   看到"
+        ]
+    },
+    {
+        "name": "dhrj",
+        "trans": [
+            "89.   当然"
+        ]
+    },
+    {
+        "name": "jwli",
+        "trans": [
+            "90.   家里"
+        ]
+    },
+    {
+        "name": "mybl",
+        "trans": [
+            "91.   明白"
+        ]
+    },
+    {
+        "name": "keng",
+        "trans": [
+            "92.   可能"
+        ]
+    },
+    {
+        "name": "diyi",
+        "trans": [
+            "93.   第一"
+        ]
+    },
+    {
+        "name": "yivi",
+        "trans": [
+            "94.   一直"
+        ]
+    },
+    {
+        "name": "erqx",
+        "trans": [
+            "95.   而且"
+        ]
+    },
+    {
+        "name": "rjhb",
+        "trans": [
+            "96.   然后"
+        ]
+    },
+    {
+        "name": "uuji",
+        "trans": [
+            "97.   书记"
+        ]
+    },
+    {
+        "name": "yygl",
+        "trans": [
+            "98.   应该"
+        ]
+    },
+    {
+        "name": "ufuh",
+        "trans": [
+            "99.   身上"
+        ]
+    },
+    {
+        "name": "uihu",
+        "trans": [
+            "100.   似乎"
+        ]
+    },
+    {
+        "name": "nayh",
+        "trans": [
+            "101.   那样"
+        ]
+    },
+    {
+        "name": "kjkj",
+        "trans": [
+            "102.   看看"
+        ]
+    },
+    {
+        "name": "xihr",
+        "trans": [
+            "103.   喜欢"
+        ]
+    },
+    {
+        "name": "iuqu",
+        "trans": [
+            "104.   出去"
+        ]
+    },
+    {
+        "name": "lmuh",
+        "trans": [
+            "105.   脸上"
+        ]
+    },
+    {
+        "name": "zvhb",
+        "trans": [
+            "106.   最后"
+        ]
+    },
+    {
+        "name": "hlmz",
+        "trans": [
+            "107.   还没"
+        ]
+    },
+    {
+        "name": "mama",
+        "trans": [
+            "108.   妈妈"
+        ]
+    },
+    {
+        "name": "wjuh",
+        "trans": [
+            "109.   晚上"
+        ]
+    },
+    {
+        "name": "yisi",
+        "trans": [
+            "110.   意思"
+        ]
+    },
+    {
+        "name": "yitc",
+        "trans": [
+            "111.   一条"
+        ]
+    },
+    {
+        "name": "bxrf",
+        "trans": [
+            "112.   别人"
+        ]
+    },
+    {
+        "name": "gund",
+        "trans": [
+            "113.   姑娘"
+        ]
+    },
+    {
+        "name": "svrj",
+        "trans": [
+            "114.   虽然"
+        ]
+    },
+    {
+        "name": "yiju",
+        "trans": [
+            "115.   一句"
+        ]
+    },
+    {
+        "name": "xtug",
+        "trans": [
+            "116.   学生"
+        ]
+    },
+    {
+        "name": "whve",
+        "trans": [
+            "117.   望着"
+        ]
+    },
+    {
+        "name": "uijx",
+        "trans": [
+            "118.   世界"
+        ]
+    },
+    {
+        "name": "yiwz",
+        "trans": [
+            "119.   以为"
+        ]
+    },
+    {
+        "name": "hkxd",
+        "trans": [
+            "120.   好像"
+        ]
+    },
+    {
+        "name": "yexu",
+        "trans": [
+            "121.   也许"
+        ]
+    },
+    {
+        "name": "faxm",
+        "trans": [
+            "122.   发现"
+        ]
+    },
+    {
+        "name": "vjzl",
+        "trans": [
+            "123.   站在"
+        ]
+    },
+    {
+        "name": "gzni",
+        "trans": [
+            "124.   给你"
+        ]
+    },
+    {
+        "name": "hver",
+        "trans": [
+            "125.   会儿"
+        ]
+    },
+    {
+        "name": "yiky",
+        "trans": [
+            "126.   一块"
+        ]
+    },
+    {
+        "name": "douk",
+        "trans": [
+            "127.   多少"
+        ]
+    },
+    {
+        "name": "yhzi",
+        "trans": [
+            "128.   样子"
+        ]
+    },
+    {
+        "name": "gjjt",
+        "trans": [
+            "129.   感觉"
+        ]
+    },
+    {
+        "name": "nver",
+        "trans": [
+            "130.   女儿"
+        ]
+    },
+    {
+        "name": "dier",
+        "trans": [
+            "131.   第二"
+        ]
+    },
+    {
+        "name": "yivf",
+        "trans": [
+            "132.   一阵"
+        ]
+    },
+    {
+        "name": "mmqm",
+        "trans": [
+            "133.   面前"
+        ]
+    },
+    {
+        "name": "vgzl",
+        "trans": [
+            "134.   正在"
+        ]
+    },
+    {
+        "name": "vihb",
+        "trans": [
+            "135.   之后"
+        ]
+    },
+    {
+        "name": "baba",
+        "trans": [
+            "136.   爸爸"
+        ]
+    },
+    {
+        "name": "dehf",
+        "trans": [
+            "137.   得很"
+        ]
+    },
+    {
+        "name": "erui",
+        "trans": [
+            "138.   二十"
+        ]
+    },
+    {
+        "name": "qiui",
+        "trans": [
+            "139.   其实"
+        ]
+    },
+    {
+        "name": "xdqi",
+        "trans": [
+            "140.   想起"
+        ]
+    },
+    {
+        "name": "xiwh",
+        "trans": [
+            "141.   希望"
+        ]
+    },
+    {
+        "name": "yipm",
+        "trans": [
+            "142.   一片"
+        ]
+    },
+    {
+        "name": "zjmf",
+        "trans": [
+            "143.   咱们"
+        ]
+    },
+    {
+        "name": "yibj",
+        "trans": [
+            "144.   一般"
+        ]
+    },
+    {
+        "name": "fzih",
+        "trans": [
+            "145.   非常"
+        ]
+    },
+    {
+        "name": "zsui",
+        "trans": [
+            "146.   总是"
+        ]
+    },
+    {
+        "name": "wjqr",
+        "trans": [
+            "147.   完全"
+        ]
+    },
+    {
+        "name": "gssi",
+        "trans": [
+            "148.   公司"
+        ]
+    },
+    {
+        "name": "rjer",
+        "trans": [
+            "149.   然而"
+        ]
+    },
+    {
+        "name": "xtxc",
+        "trans": [
+            "150.   学校"
+        ]
+    },
+    {
+        "name": "hurj",
+        "trans": [
+            "151.   忽然"
+        ]
+    },
+    {
+        "name": "genv",
+        "trans": [
+            "152.   个女"
+        ]
+    },
+    {
+        "name": "hvqu",
+        "trans": [
+            "153.   回去"
+        ]
+    },
+    {
+        "name": "nmqy",
+        "trans": [
+            "154.   年轻"
+        ]
+    },
+    {
+        "name": "zbdk",
+        "trans": [
+            "155.   走到"
+        ]
+    },
+    {
+        "name": "rizi",
+        "trans": [
+            "156.   日子"
+        ]
+    },
+    {
+        "name": "soyb",
+        "trans": [
+            "157.   所有"
+        ]
+    },
+    {
+        "name": "lkbj",
+        "trans": [
+            "158.   老板"
+        ]
+    },
+    {
+        "name": "zfyh",
+        "trans": [
+            "159.   怎样"
+        ]
+    },
+    {
+        "name": "fhfu",
+        "trans": [
+            "160.   仿佛"
+        ]
+    },
+    {
+        "name": "uiff",
+        "trans": [
+            "161.   十分"
+        ]
+    },
+    {
+        "name": "hvdk",
+        "trans": [
+            "162.   回到"
+        ]
+    },
+    {
+        "name": "bugj",
+        "trans": [
+            "163.   不敢"
+        ]
+    },
+    {
+        "name": "rhwo",
+        "trans": [
+            "164.   让我"
+        ]
+    },
+    {
+        "name": "grxi",
+        "trans": [
+            "165.   关系"
+        ]
+    },
+    {
+        "name": "viyk",
+        "trans": [
+            "166.   只要"
+        ]
+    },
+    {
+        "name": "gkxy",
+        "trans": [
+            "167.   高兴"
+        ]
+    },
+    {
+        "name": "xcve",
+        "trans": [
+            "168.   笑着"
+        ]
+    },
+    {
+        "name": "zirj",
+        "trans": [
+            "169.   自然"
+        ]
+    },
+    {
+        "name": "hvda",
+        "trans": [
+            "170.   回答"
+        ]
+    },
+    {
+        "name": "tyjm",
+        "trans": [
+            "171.   听见"
+        ]
+    },
+    {
+        "name": "hvjw",
+        "trans": [
+            "172.   回家"
+        ]
+    },
+    {
+        "name": "juhw",
+        "trans": [
+            "173.   句话"
+        ]
+    },
+    {
+        "name": "jihu",
+        "trans": [
+            "174.   几乎"
+        ]
+    },
+    {
+        "name": "nvhl",
+        "trans": [
+            "175.   女孩"
+        ]
+    },
+    {
+        "name": "vsyu",
+        "trans": [
+            "176.   终于"
+        ]
+    },
+    {
+        "name": "vpbz",
+        "trans": [
+            "177.   准备"
+        ]
+    },
+    {
+        "name": "vurf",
+        "trans": [
+            "178.   主任"
+        ]
+    },
+    {
+        "name": "xcjx",
+        "trans": [
+            "179.   小姐"
+        ]
+    },
+    {
+        "name": "tydk",
+        "trans": [
+            "180.   听到"
+        ]
+    },
+    {
+        "name": "yifu",
+        "trans": [
+            "181.   衣服"
+        ]
+    },
+    {
+        "name": "ufvi",
+        "trans": [
+            "182.   甚至"
+        ]
+    },
+    {
+        "name": "xuyk",
+        "trans": [
+            "183.   需要"
+        ]
+    },
+    {
+        "name": "rhta",
+        "trans": [
+            "184.   让他"
+        ]
+    },
+    {
+        "name": "likl",
+        "trans": [
+            "185.   离开"
+        ]
+    },
+    {
+        "name": "yijm",
+        "trans": [
+            "186.   一件"
+        ]
+    },
+    {
+        "name": "qykd",
+        "trans": [
+            "187.   情况"
+        ]
+    },
+    {
+        "name": "qyiu",
+        "trans": [
+            "188.   清楚"
+        ]
+    },
+    {
+        "name": "mfkb",
+        "trans": [
+            "189.   门口"
+        ]
+    },
+    {
+        "name": "lydk",
+        "trans": [
+            "190.   领导"
+        ]
+    },
+    {
+        "name": "xdxn",
+        "trans": [
+            "191.   相信"
+        ]
+    },
+    {
+        "name": "tsxt",
+        "trans": [
+            "192.   同学"
+        ]
+    },
+    {
+        "name": "navs",
+        "trans": [
+            "193.   那种"
+        ]
+    },
+    {
+        "name": "rfhe",
+        "trans": [
+            "194.   任何"
+        ]
+    },
+    {
+        "name": "bjfa",
+        "trans": [
+            "195.   办法"
+        ]
+    },
+    {
+        "name": "ubli",
+        "trans": [
+            "196.   手里"
+        ]
+    },
+    {
+        "name": "dlve",
+        "trans": [
+            "197.   带着"
+        ]
+    },
+    {
+        "name": "mauh",
+        "trans": [
+            "198.   马上"
+        ]
+    },
+    {
+        "name": "lyyi",
+        "trans": [
+            "199.   另一"
+        ]
+    },
+    {
+        "name": "kbqi",
+        "trans": [
+            "200.   口气"
+        ]
+    }
+]
