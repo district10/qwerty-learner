@@ -152,7 +152,7 @@ const App: React.FC = () => {
             <div className="group relative">
               <NavLink
                 className="text-lg px-4 py-1 rounded-lg transition-colors duration-300 ease-in-out focus:outline-none dark:text-white dark:text-opacity-60 hover:bg-indigo-400 hover:text-opacity-100"
-                to="./gallery"
+                to="/gallery"
               >
                 {wordList.dictName} 第 {wordList.chapter + 1} 章
               </NavLink>

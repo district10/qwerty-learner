@@ -20,7 +20,7 @@ const GalleryPage: React.FC = () => {
   return (
     <Layout>
       <Header>
-        <NavLink className="bg-indigo-400 text-white dark:text-opacity-80 text-lg px-6 py-1 rounded-lg focus:outline-none" to="./">
+        <NavLink className="bg-indigo-400 text-white dark:text-opacity-80 text-lg px-6 py-1 rounded-lg focus:outline-none" to="/">
           返回练习
         </NavLink>
       </Header>
