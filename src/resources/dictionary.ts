@@ -243,6 +243,7 @@ export const dictionaries: Dictionary[] = [
   { id: 'ziranma_sample2', name: 'sample2', description: 'sample2', category: 'ziranma', url: './dicts/ziranma/sample2.json', length: 758 },
   { id: 'ziranma_sample3', name: 'sample3', description: 'sample3', category: 'ziranma', url: './dicts/ziranma/sample3.json', length: 841 },
   { id: 'ziranma_zhihu', name: 'zhihu', description: 'zhihu', category: 'ziranma', url: './dicts/ziranma/zhihu.json', length: 39966 },
+  { id: 'ziranma_wiki', name: 'wiki', description: 'wiki', category: 'ziranma', url: './dicts/ziranma/wiki.json', length: 2920 },
 ]
 
 /**
