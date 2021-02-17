@@ -236,14 +236,14 @@ export const dictionaries: Dictionary[] = [
     url: './dicts/PEPChuZhong9_1_T.json',
     length: 551,
   },
-  //
+  // for i in public/dicts/ziranma/*.json; do echo $i; jq length $i; done
   { id: 'ziranma_douban', name: '豆瓣', description: '豆瓣', category: 'ziranma', url: './dicts/ziranma/douban.json', length: 68981 },
   { id: 'ziranma_notes', name: 'notes', description: 'notes', category: 'ziranma', url: './dicts/ziranma/notes.json', length: 30480 },
-  { id: 'ziranma_sample1', name: 'sample1', description: 'sample1', category: 'ziranma', url: './dicts/ziranma/sample1.json', length: 252 },
-  { id: 'ziranma_sample2', name: 'sample2', description: 'sample2', category: 'ziranma', url: './dicts/ziranma/sample2.json', length: 758 },
-  { id: 'ziranma_sample3', name: 'sample3', description: 'sample3', category: 'ziranma', url: './dicts/ziranma/sample3.json', length: 841 },
-  { id: 'ziranma_zhihu', name: 'zhihu', description: 'zhihu', category: 'ziranma', url: './dicts/ziranma/zhihu.json', length: 39966 },
+  { id: 'ziranma_sample1', name: 'sample1', description: 'sample1', category: 'ziranma', url: './dicts/ziranma/sample1.json', length: 250 },
+  { id: 'ziranma_sample2', name: 'sample2', description: 'sample2', category: 'ziranma', url: './dicts/ziranma/sample2.json', length: 601 },
+  { id: 'ziranma_sample3', name: 'sample3', description: 'sample3', category: 'ziranma', url: './dicts/ziranma/sample3.json', length: 891 },
   { id: 'ziranma_wiki', name: 'wiki', description: 'wiki', category: 'ziranma', url: './dicts/ziranma/wiki.json', length: 2920 },
+  { id: 'ziranma_zhihu', name: 'zhihu', description: 'zhihu', category: 'ziranma', url: './dicts/ziranma/zhihu.json', length: 39966 },
 ]
 
 /**
