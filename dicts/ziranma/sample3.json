@@ -1,88 +1,88 @@
 [
     {
-        "name": "sopl",
+        "name": "ypsr",
         "trans": [
-            "缩排",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "srfa",
-        "trans": [
-            "算法",
+            "运算",
             2,
             1
         ]
     },
     {
-        "name": "mylyxy",
+        "name": "ynys",
         "trans": [
-            "命令行",
-            2,
-            1
+            "引用",
+            6,
+            2
         ]
     },
     {
-        "name": "ma",
+        "name": "uuju",
         "trans": [
-            "码",
+            "数据",
             3,
             2
-        ]
-    },
-    {
-        "name": "kohu",
-        "trans": [
-            "括弧",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ji",
-        "trans": [
-            "集",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "ceui",
-        "trans": [
-            "测试",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "cjuu",
-        "trans": [
-            "参数",
-            9,
-            3
-        ]
-    },
-    {
-        "name": "uujuku",
-        "trans": [
-            "数据库",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "yiiu",
-        "trans": [
-            "溢出",
-            2,
-            1
         ]
     },
     {
         "name": "ky",
         "trans": [
             "块",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "goig",
+        "trans": [
+            "过程",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "bgkv",
+        "trans": [
+            "崩溃",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "duqu",
+        "trans": [
+            "读取",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "tehw",
+        "trans": [
+            "特化",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yjge",
+        "trans": [
+            "严格",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "ueji",
+        "trans": [
+            "设计",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "jubu",
+        "trans": [
+            "局部",
             3,
             2
         ]
@@ -96,547 +96,19 @@
         ]
     },
     {
-        "name": "gddu",
+        "name": "byfa",
         "trans": [
-            "广度",
+            "并发",
             2,
             1
         ]
     },
     {
-        "name": "buff",
+        "name": "dm",
         "trans": [
-            "部分",
+            "点",
             3,
             2
-        ]
-    },
-    {
-        "name": "yrzi",
-        "trans": [
-            "原子",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "xits",
-        "trans": [
-            "系统",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "qrju",
-        "trans": [
-            "全局",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ugmy",
-        "trans": [
-            "声明",
-            11,
-            3
-        ]
-    },
-    {
-        "name": "qyxy",
-        "trans": [
-            "情形",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bmig",
-        "trans": [
-            "编程",
-            13,
-            3
-        ]
-    },
-    {
-        "name": "de",
-        "trans": [
-            "的",
-            51,
-            3
-        ]
-    },
-    {
-        "name": "xddg",
-        "trans": [
-            "相等",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "yyys",
-        "trans": [
-            "应用",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "xm",
-        "trans": [
-            "显",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "jchuui",
-        "trans": [
-            "交互式",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "tcjm",
-        "trans": [
-            "条件",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "tehw",
-        "trans": [
-            "特化",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "xdld",
-        "trans": [
-            "向量",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "yiih",
-        "trans": [
-            "异常",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "qi",
-        "trans": [
-            "期",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "jxgb",
-        "trans": [
-            "结构",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dcys",
-        "trans": [
-            "调用",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "vu",
-        "trans": [
-            "主",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "zuhe",
-        "trans": [
-            "组合",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "nzcp",
-        "trans": [
-            "内存",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "jnig",
-        "trans": [
-            "进程",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "hw",
-        "trans": [
-            "化",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "xy",
-        "trans": [
-            "性",
-            7,
-            2
-        ]
-    },
-    {
-        "name": "hrisqu",
-        "trans": [
-            "缓冲区",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "di",
-        "trans": [
-            "第",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "dlma",
-        "trans": [
-            "代码",
-            7,
-            2
-        ]
-    },
-    {
-        "name": "lzxy",
-        "trans": [
-            "类型",
-            24,
-            3
-        ]
-    },
-    {
-        "name": "uuzu",
-        "trans": [
-            "数组",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xits",
-        "trans": [
-            "系统",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "nzlm",
-        "trans": [
-            "内联",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "yilz",
-        "trans": [
-            "一类",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "hjuu",
-        "trans": [
-            "函数",
-            19,
-            3
-        ]
-    },
-    {
-        "name": "laji",
-        "trans": [
-            "垃圾",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ybhw",
-        "trans": [
-            "优化",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "fjwz",
-        "trans": [
-            "范围",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "uedi",
-        "trans": [
-            "蛇底",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bcji",
-        "trans": [
-            "标记",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "jxxi",
-        "trans": [
-            "解析",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bmld",
-        "trans": [
-            "变量",
-            7,
-            2
-        ]
-    },
-    {
-        "name": "irdi",
-        "trans": [
-            "传递",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "qrju",
-        "trans": [
-            "全局",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bcdaui",
-        "trans": [
-            "表达式",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ybxmji",
-        "trans": [
-            "优先级",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "ffxi",
-        "trans": [
-            "分析",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "zimm",
-        "trans": [
-            "字面",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "pohyxy",
-        "trans": [
-            "破坏性",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "viui",
-        "trans": [
-            "指示",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "sopl",
-        "trans": [
-            "缩排",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "yuyj",
-        "trans": [
-            "语言",
-            10,
-            3
-        ]
-    },
-    {
-        "name": "hj",
-        "trans": [
-            "函",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "yuyj",
-        "trans": [
-            "语言",
-            10,
-            3
-        ]
-    },
-    {
-        "name": "dstl",
-        "trans": [
-            "动态",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "qqvi",
-        "trans": [
-            "求值",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "hw",
-        "trans": [
-            "化",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "vgqt",
-        "trans": [
-            "正确",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xmxy",
-        "trans": [
-            "线性",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ihld",
-        "trans": [
-            "常量",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bmig",
-        "trans": [
-            "编程",
-            13,
-            3
-        ]
-    },
-    {
-        "name": "sbso",
-        "trans": [
-            "搜索",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ugmy",
-        "trans": [
-            "声明",
-            11,
-            3
-        ]
-    },
-    {
-        "name": "jilz",
-        "trans": [
-            "基类",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dyyi",
-        "trans": [
-            "定义",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "lx",
-        "trans": [
-            "列",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "uuxy",
-        "trans": [
-            "属性",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "lxbc",
-        "trans": [
-            "列表",
-            8,
-            3
         ]
     },
     {
@@ -648,770 +120,10 @@
         ]
     },
     {
-        "name": "whlo",
+        "name": "ybxmji",
         "trans": [
-            "网络",
+            "优先级",
             4,
-            2
-        ]
-    },
-    {
-        "name": "laji",
-        "trans": [
-            "垃圾",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "xy",
-        "trans": [
-            "性",
-            7,
-            2
-        ]
-    },
-    {
-        "name": "iuli",
-        "trans": [
-            "处理",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "zids",
-        "trans": [
-            "自动",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "vily",
-        "trans": [
-            "指令",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ckzo",
-        "trans": [
-            "操作",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "uu",
-        "trans": [
-            "树",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bhdy",
-        "trans": [
-            "绑定",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ui",
-        "trans": [
-            "式",
-            22,
-            3
-        ]
-    },
-    {
-        "name": "xy",
-        "trans": [
-            "型",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "zimm",
-        "trans": [
-            "字面",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "jxkb",
-        "trans": [
-            "接口",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "fhfa",
-        "trans": [
-            "方法",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "pipz",
-        "trans": [
-            "匹配",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ytuu",
-        "trans": [
-            "约束",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "hrjy",
-        "trans": [
-            "环境",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "pohyxy",
-        "trans": [
-            "破坏性",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "wfjm",
-        "trans": [
-            "文件",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dv",
-        "trans": [
-            "对",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "yufa",
-        "trans": [
-            "语法",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "yyys",
-        "trans": [
-            "应用",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "uujuku",
-        "trans": [
-            "数据库",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ui",
-        "trans": [
-            "式",
-            22,
-            3
-        ]
-    },
-    {
-        "name": "wz",
-        "trans": [
-            "尾",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "an",
-        "trans": [
-            "按",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "uuxy",
-        "trans": [
-            "属性",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "lxbc",
-        "trans": [
-            "列表",
-            8,
-            3
-        ]
-    },
-    {
-        "name": "uujulzxy",
-        "trans": [
-            "数据类型",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "cifa",
-        "trans": [
-            "词法",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "qi",
-        "trans": [
-            "器",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "viui",
-        "trans": [
-            "知识",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bgkv",
-        "trans": [
-            "崩溃",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xyui",
-        "trans": [
-            "形式",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "ynys",
-        "trans": [
-            "引用",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "ueji",
-        "trans": [
-            "设计",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "goig",
-        "trans": [
-            "过程",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "uu",
-        "trans": [
-            "树",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "lz",
-        "trans": [
-            "类",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "fu",
-        "trans": [
-            "符",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "lzxy",
-        "trans": [
-            "类型",
-            24,
-            3
-        ]
-    },
-    {
-        "name": "xxyi",
-        "trans": [
-            "协议",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ffpz",
-        "trans": [
-            "分配",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "zijx",
-        "trans": [
-            "字节",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dorfwu",
-        "trans": [
-            "多任务",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bhdy",
-        "trans": [
-            "绑定",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bu",
-        "trans": [
-            "不",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "cifa",
-        "trans": [
-            "词法",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "zi",
-        "trans": [
-            "自",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "de",
-        "trans": [
-            "的",
-            51,
-            3
-        ]
-    },
-    {
-        "name": "tsys",
-        "trans": [
-            "通用",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "wuxm",
-        "trans": [
-            "无限",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "zoysyu",
-        "trans": [
-            "作用域",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "lzxy",
-        "trans": [
-            "类型",
-            24,
-            3
-        ]
-    },
-    {
-        "name": "keli",
-        "trans": [
-            "柯里",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "yrzi",
-        "trans": [
-            "原子",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "igxu",
-        "trans": [
-            "程序",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "jnig",
-        "trans": [
-            "进程",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "tehw",
-        "trans": [
-            "特化",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ke",
-        "trans": [
-            "可",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xu",
-        "trans": [
-            "序",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "igxu",
-        "trans": [
-            "程序",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "irdi",
-        "trans": [
-            "传递",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "yr",
-        "trans": [
-            "元",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "vdzl",
-        "trans": [
-            "装载",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ugmy",
-        "trans": [
-            "声明",
-            11,
-            3
-        ]
-    },
-    {
-        "name": "bcdaui",
-        "trans": [
-            "表达式",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "dayn",
-        "trans": [
-            "打印",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ynys",
-        "trans": [
-            "引用",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "dm",
-        "trans": [
-            "点",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "yyysigxu",
-        "trans": [
-            "应用程序",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bmyi",
-        "trans": [
-            "编译",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "iuliqi",
-        "trans": [
-            "处理器",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "cjuu",
-        "trans": [
-            "参数",
-            9,
-            3
-        ]
-    },
-    {
-        "name": "di",
-        "trans": [
-            "第",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bxmy",
-        "trans": [
-            "别名",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xxlb",
-        "trans": [
-            "泄漏",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bibk",
-        "trans": [
-            "闭包",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "gkjx",
-        "trans": [
-            "高阶",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "digv",
-        "trans": [
-            "递归",
-            10,
-            3
-        ]
-    },
-    {
-        "name": "vs",
-        "trans": [
-            "中",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dxdl",
-        "trans": [
-            "迭代",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "xquifu",
-        "trans": [
-            "修饰符",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "fuvu",
-        "trans": [
-            "辅助",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "vj",
-        "trans": [
-            "栈",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bmig",
-        "trans": [
-            "编程",
-            13,
-            3
-        ]
-    },
-    {
-        "name": "hjuu",
-        "trans": [
-            "函数",
-            19,
-            3
-        ]
-    },
-    {
-        "name": "jubu",
-        "trans": [
-            "局部",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "dixduh",
-        "trans": [
-            "底向上",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "tvdk",
-        "trans": [
-            "推导",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "byxy",
-        "trans": [
-            "并行",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "iuuihw",
-        "trans": [
-            "初始化",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "digv",
-        "trans": [
-            "递归",
-            10,
-            3
-        ]
-    },
-    {
-        "name": "vivf",
-        "trans": [
-            "指针",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "yjge",
-        "trans": [
-            "严格",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "nzcp",
-        "trans": [
-            "内存",
-            6,
             2
         ]
     },
@@ -1419,398 +131,6 @@
         "name": "jchuui",
         "trans": [
             "交互式",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "whlo",
-        "trans": [
-            "网络",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "mubc",
-        "trans": [
-            "目标",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "buvo",
-        "trans": [
-            "捕捉",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ihld",
-        "trans": [
-            "常量",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "jxkb",
-        "trans": [
-            "接口",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "xu",
-        "trans": [
-            "序",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "digv",
-        "trans": [
-            "递归",
-            10,
-            3
-        ]
-    },
-    {
-        "name": "dm",
-        "trans": [
-            "点",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "jisrji",
-        "trans": [
-            "计算机",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "grlm",
-        "trans": [
-            "关联",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ibxd",
-        "trans": [
-            "抽象",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "kexy",
-        "trans": [
-            "可行",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "xy",
-        "trans": [
-            "行",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xdld",
-        "trans": [
-            "向量",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "uuju",
-        "trans": [
-            "数据",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "duqu",
-        "trans": [
-            "读取",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "qmtk",
-        "trans": [
-            "嵌套",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ypxy",
-        "trans": [
-            "运行",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dstl",
-        "trans": [
-            "动态",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "vu",
-        "trans": [
-            "主",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "lxbc",
-        "trans": [
-            "列表",
-            8,
-            3
-        ]
-    },
-    {
-        "name": "jiig",
-        "trans": [
-            "集成",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "tcjm",
-        "trans": [
-            "条件",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "sbso",
-        "trans": [
-            "搜索",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ma",
-        "trans": [
-            "码",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "jiqiyuyj",
-        "trans": [
-            "机器语言",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xrze",
-        "trans": [
-            "选择",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ffvi",
-        "trans": [
-            "分支",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "mzju",
-        "trans": [
-            "枚举",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bmjx",
-        "trans": [
-            "边界",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "zuhe",
-        "trans": [
-            "组合",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "ji",
-        "trans": [
-            "集",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "mzju",
-        "trans": [
-            "枚举",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "zids",
-        "trans": [
-            "自动",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "jmia",
-        "trans": [
-            "检查",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "jubu",
-        "trans": [
-            "局部",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "fudmuu",
-        "trans": [
-            "浮点数",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "gkjx",
-        "trans": [
-            "高阶",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bmyi",
-        "trans": [
-            "编译",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "cjuu",
-        "trans": [
-            "参数",
-            9,
-            3
-        ]
-    },
-    {
-        "name": "mylyui",
-        "trans": [
-            "命令式",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "buff",
-        "trans": [
-            "部分",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "kexy",
-        "trans": [
-            "可行",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "vj",
-        "trans": [
-            "栈",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "dotl",
-        "trans": [
-            "多态",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "moui",
-        "trans": [
-            "模式",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ckzo",
-        "trans": [
-            "操作",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "bfdi",
-        "trans": [
-            "本地",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ueji",
-        "trans": [
-            "设计",
             3,
             2
         ]
@@ -1824,43 +144,11 @@
         ]
     },
     {
-        "name": "zoysyu",
+        "name": "lxbc",
         "trans": [
-            "作用域",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "xphr",
-        "trans": [
-            "循环",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "dcui",
-        "trans": [
-            "调试",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bcuifa",
-        "trans": [
-            "表示法",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "ypsr",
-        "trans": [
-            "运算",
-            2,
-            1
+            "列表",
+            8,
+            3
         ]
     },
     {
@@ -1880,110 +168,6 @@
         ]
     },
     {
-        "name": "vivf",
-        "trans": [
-            "指针",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "jxgb",
-        "trans": [
-            "解构",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "kebm",
-        "trans": [
-            "可变",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "vi",
-        "trans": [
-            "值",
-            8,
-            3
-        ]
-    },
-    {
-        "name": "fu",
-        "trans": [
-            "符",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "yyjm",
-        "trans": [
-            "硬件",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dlma",
-        "trans": [
-            "代码",
-            7,
-            2
-        ]
-    },
-    {
-        "name": "dcys",
-        "trans": [
-            "调用",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "jxxi",
-        "trans": [
-            "解析",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "grjmzi",
-        "trans": [
-            "关键字",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "uuju",
-        "trans": [
-            "数据",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "rrjm",
-        "trans": [
-            "软件",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ceui",
-        "trans": [
-            "测试",
-            3,
-            2
-        ]
-    },
-    {
         "name": "ckzofu",
         "trans": [
             "操作符",
@@ -1992,18 +176,50 @@
         ]
     },
     {
-        "name": "hjuu",
+        "name": "dixduh",
         "trans": [
-            "函数",
-            19,
+            "底向上",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "srfa",
+        "trans": [
+            "算法",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ibxd",
+        "trans": [
+            "抽象",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "mylyui",
+        "trans": [
+            "命令式",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ugmy",
+        "trans": [
+            "声明",
+            11,
             3
         ]
     },
     {
-        "name": "goig",
+        "name": "dyyi",
         "trans": [
-            "过程",
-            4,
+            "定义",
+            3,
             2
         ]
     },
@@ -2016,113 +232,65 @@
         ]
     },
     {
-        "name": "yuyj",
+        "name": "bmyi",
         "trans": [
-            "语言",
-            10,
+            "编译",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "moui",
+        "trans": [
+            "模式",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ffxi",
+        "trans": [
+            "分析",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "cjuu",
+        "trans": [
+            "参数",
+            9,
             3
         ]
     },
     {
-        "name": "wz",
+        "name": "xy",
         "trans": [
-            "尾",
+            "性",
+            7,
+            2
+        ]
+    },
+    {
+        "name": "ckzo",
+        "trans": [
+            "操作",
             3,
             2
         ]
     },
     {
-        "name": "uili",
+        "name": "jisrji",
         "trans": [
-            "实例",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "qqvi",
-        "trans": [
-            "求值",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "dayn",
-        "trans": [
-            "打印",
+            "计算机",
             3,
             2
         ]
     },
     {
-        "name": "ibxd",
+        "name": "hrjy",
         "trans": [
-            "抽象",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "lujy",
-        "trans": [
-            "路径",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "bcuifa",
-        "trans": [
-            "表示法",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "byfa",
-        "trans": [
-            "并发",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "iavk",
-        "trans": [
-            "查找",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "ky",
-        "trans": [
-            "块",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "dvxd",
-        "trans": [
-            "对象",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "yiih",
-        "trans": [
-            "异常",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "ufdu",
-        "trans": [
-            "深度",
+            "环境",
             2,
             1
         ]
@@ -2136,122 +304,130 @@
         ]
     },
     {
-        "name": "dyyi",
+        "name": "whlo",
         "trans": [
-            "定义",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "tsys",
-        "trans": [
-            "通用",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "ckzofu",
-        "trans": [
-            "操作符",
+            "网络",
             4,
             2
         ]
     },
     {
-        "name": "bmld",
+        "name": "lx",
         "trans": [
-            "变量",
-            7,
-            2
-        ]
-    },
-    {
-        "name": "nzlm",
-        "trans": [
-            "内联",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "vi",
-        "trans": [
-            "值",
-            8,
-            3
-        ]
-    },
-    {
-        "name": "vi",
-        "trans": [
-            "值",
-            8,
-            3
-        ]
-    },
-    {
-        "name": "dxdl",
-        "trans": [
-            "迭代",
-            5,
-            2
-        ]
-    },
-    {
-        "name": "ybxm",
-        "trans": [
-            "优先",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "xyui",
-        "trans": [
-            "形式",
-            6,
-            2
-        ]
-    },
-    {
-        "name": "fjwz",
-        "trans": [
-            "范围",
-            3,
-            2
-        ]
-    },
-    {
-        "name": "tvdk",
-        "trans": [
-            "推导",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "fuvi",
-        "trans": [
-            "赋值",
+            "列",
             2,
             1
         ]
     },
     {
-        "name": "wuxm",
+        "name": "zids",
         "trans": [
-            "无限",
+            "自动",
             3,
             2
         ]
     },
     {
-        "name": "xphr",
+        "name": "goig",
         "trans": [
-            "循环",
-            6,
+            "过程",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "xxyi",
+        "trans": [
+            "协议",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "qrju",
+        "trans": [
+            "全局",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "qmtk",
+        "trans": [
+            "嵌套",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dayn",
+        "trans": [
+            "打印",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "fudmuu",
+        "trans": [
+            "浮点数",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "yuyj",
+        "trans": [
+            "语言",
+            10,
+            3
+        ]
+    },
+    {
+        "name": "ckzo",
+        "trans": [
+            "操作",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "bu",
+        "trans": [
+            "不",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dv",
+        "trans": [
+            "对",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "jilz",
+        "trans": [
+            "基类",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "whlo",
+        "trans": [
+            "网络",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "zoysyu",
+        "trans": [
+            "作用域",
+            3,
             2
         ]
     },
@@ -2264,49 +440,81 @@
         ]
     },
     {
-        "name": "uixm",
+        "name": "bcdaui",
         "trans": [
-            "实现",
+            "表达式",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yiih",
+        "trans": [
+            "异常",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "zids",
+        "trans": [
+            "自动",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "dlma",
+        "trans": [
+            "代码",
+            7,
+            2
+        ]
+    },
+    {
+        "name": "zoysyu",
+        "trans": [
+            "作用域",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "值",
+            8,
+            3
+        ]
+    },
+    {
+        "name": "grjmzi",
+        "trans": [
+            "关键字",
             2,
             1
         ]
     },
     {
-        "name": "duqu",
+        "name": "vj",
         "trans": [
-            "读取",
+            "栈",
             3,
             2
         ]
     },
     {
-        "name": "dorfwu",
+        "name": "ibxd",
         "trans": [
-            "多任务",
-            3,
+            "抽象",
+            6,
             2
         ]
     },
     {
-        "name": "ybxmji",
+        "name": "bmjx",
         "trans": [
-            "优先级",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "ybxm",
-        "trans": [
-            "优先",
-            4,
-            2
-        ]
-    },
-    {
-        "name": "kdjw",
-        "trans": [
-            "框架",
+            "边界",
             2,
             1
         ]
@@ -2320,34 +528,402 @@
         ]
     },
     {
-        "name": "kohk",
+        "name": "bmig",
         "trans": [
-            "括号",
-            2,
-            1
+            "编程",
+            13,
+            3
         ]
     },
     {
-        "name": "yjge",
+        "name": "buff",
         "trans": [
-            "严格",
+            "部分",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "kexy",
+        "trans": [
+            "可行",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "fu",
+        "trans": [
+            "符",
             4,
             2
         ]
     },
     {
-        "name": "lz",
+        "name": "dayn",
         "trans": [
-            "类",
+            "打印",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "tcjm",
+        "trans": [
+            "条件",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "bhdy",
+        "trans": [
+            "绑定",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "dstl",
+        "trans": [
+            "动态",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ufdu",
+        "trans": [
+            "深度",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xy",
+        "trans": [
+            "行",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "buff",
+        "trans": [
+            "部分",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "qrju",
+        "trans": [
+            "全局",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "dotl",
+        "trans": [
+            "多态",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "nzlm",
+        "trans": [
+            "内联",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "fjwz",
+        "trans": [
+            "范围",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "pipz",
+        "trans": [
+            "匹配",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "wuxm",
+        "trans": [
+            "无限",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yrzi",
+        "trans": [
+            "原子",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "lxbc",
+        "trans": [
+            "列表",
+            8,
+            3
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "值",
+            8,
+            3
+        ]
+    },
+    {
+        "name": "zuhe",
+        "trans": [
+            "组合",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "的",
+            51,
+            3
+        ]
+    },
+    {
+        "name": "vily",
+        "trans": [
+            "指令",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "bmld",
+        "trans": [
+            "变量",
+            7,
+            2
+        ]
+    },
+    {
+        "name": "lzxy",
+        "trans": [
+            "类型",
+            24,
+            3
+        ]
+    },
+    {
+        "name": "ybhw",
+        "trans": [
+            "优化",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "bhdy",
+        "trans": [
+            "绑定",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "viui",
+        "trans": [
+            "指示",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "fz",
+        "trans": [
+            "非",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "yr",
+        "trans": [
+            "元",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ffpz",
+        "trans": [
+            "分配",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "lujy",
+        "trans": [
+            "路径",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xyui",
+        "trans": [
+            "形式",
             6,
             2
         ]
     },
     {
-        "name": "ui",
+        "name": "xmxy",
         "trans": [
-            "式",
-            22,
+            "线性",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "digv",
+        "trans": [
+            "递归",
+            10,
+            3
+        ]
+    },
+    {
+        "name": "ji",
+        "trans": [
+            "集",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "zuhe",
+        "trans": [
+            "组合",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "sbso",
+        "trans": [
+            "搜索",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "sopl",
+        "trans": [
+            "缩排",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "bfdi",
+        "trans": [
+            "本地",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xy",
+        "trans": [
+            "型",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "nzlm",
+        "trans": [
+            "内联",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ceui",
+        "trans": [
+            "测试",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "bmld",
+        "trans": [
+            "变量",
+            7,
+            2
+        ]
+    },
+    {
+        "name": "ceui",
+        "trans": [
+            "测试",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "jiig",
+        "trans": [
+            "集成",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "uedi",
+        "trans": [
+            "蛇底",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ky",
+        "trans": [
+            "块",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "vivf",
+        "trans": [
+            "指针",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "hjuu",
+        "trans": [
+            "函数",
+            19,
             3
         ]
     },
@@ -2360,10 +936,1138 @@
         ]
     },
     {
-        "name": "fz",
+        "name": "uuzu",
         "trans": [
-            "非",
+            "数组",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ke",
+        "trans": [
+            "可",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "uuxy",
+        "trans": [
+            "属性",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "dstl",
+        "trans": [
+            "动态",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "yilz",
+        "trans": [
+            "一类",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dyyi",
+        "trans": [
+            "定义",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "xphr",
+        "trans": [
+            "循环",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "hw",
+        "trans": [
+            "化",
             4,
+            2
+        ]
+    },
+    {
+        "name": "yyys",
+        "trans": [
+            "应用",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "cifa",
+        "trans": [
+            "词法",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "vj",
+        "trans": [
+            "栈",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "digv",
+        "trans": [
+            "递归",
+            10,
+            3
+        ]
+    },
+    {
+        "name": "xrze",
+        "trans": [
+            "选择",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "jxgb",
+        "trans": [
+            "结构",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "jiqiyuyj",
+        "trans": [
+            "机器语言",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xy",
+        "trans": [
+            "性",
+            7,
+            2
+        ]
+    },
+    {
+        "name": "cjuu",
+        "trans": [
+            "参数",
+            9,
+            3
+        ]
+    },
+    {
+        "name": "yjge",
+        "trans": [
+            "严格",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "uuju",
+        "trans": [
+            "数据",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yyjm",
+        "trans": [
+            "硬件",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dvxd",
+        "trans": [
+            "对象",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "jubu",
+        "trans": [
+            "局部",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "digv",
+        "trans": [
+            "递归",
+            10,
+            3
+        ]
+    },
+    {
+        "name": "zimm",
+        "trans": [
+            "字面",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "zimm",
+        "trans": [
+            "字面",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "ma",
+        "trans": [
+            "码",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "式",
+            22,
+            3
+        ]
+    },
+    {
+        "name": "gkjx",
+        "trans": [
+            "高阶",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "tcjm",
+        "trans": [
+            "条件",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "bcuifa",
+        "trans": [
+            "表示法",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "bcdaui",
+        "trans": [
+            "表达式",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "viui",
+        "trans": [
+            "知识",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xquifu",
+        "trans": [
+            "修饰符",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "bxmy",
+        "trans": [
+            "别名",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "jnig",
+        "trans": [
+            "进程",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "dlma",
+        "trans": [
+            "代码",
+            7,
+            2
+        ]
+    },
+    {
+        "name": "sopl",
+        "trans": [
+            "缩排",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "kdjw",
+        "trans": [
+            "框架",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ugmy",
+        "trans": [
+            "声明",
+            11,
+            3
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "第",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ytuu",
+        "trans": [
+            "约束",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "lz",
+        "trans": [
+            "类",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "dm",
+        "trans": [
+            "点",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "uixm",
+        "trans": [
+            "实现",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "vivf",
+        "trans": [
+            "指针",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "qyxy",
+        "trans": [
+            "情形",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xdld",
+        "trans": [
+            "向量",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "xits",
+        "trans": [
+            "系统",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "jchuui",
+        "trans": [
+            "交互式",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "tsys",
+        "trans": [
+            "通用",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ybxmji",
+        "trans": [
+            "优先级",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "wfjm",
+        "trans": [
+            "文件",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "jmia",
+        "trans": [
+            "检查",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "bmig",
+        "trans": [
+            "编程",
+            13,
+            3
+        ]
+    },
+    {
+        "name": "iuuihw",
+        "trans": [
+            "初始化",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "第",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yrzi",
+        "trans": [
+            "原子",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "jxkb",
+        "trans": [
+            "接口",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "qqvi",
+        "trans": [
+            "求值",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "hrisqu",
+        "trans": [
+            "缓冲区",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "yiiu",
+        "trans": [
+            "溢出",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "tcui",
+        "trans": [
+            "调试",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "iuliqi",
+        "trans": [
+            "处理器",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "grlm",
+        "trans": [
+            "关联",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xu",
+        "trans": [
+            "序",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "qi",
+        "trans": [
+            "期",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "uili",
+        "trans": [
+            "实例",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "的",
+            51,
+            3
+        ]
+    },
+    {
+        "name": "duqu",
+        "trans": [
+            "读取",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "uuxy",
+        "trans": [
+            "属性",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "vgqt",
+        "trans": [
+            "正确",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ihld",
+        "trans": [
+            "常量",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "dxdl",
+        "trans": [
+            "迭代",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "buvo",
+        "trans": [
+            "捕捉",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "bmig",
+        "trans": [
+            "编程",
+            13,
+            3
+        ]
+    },
+    {
+        "name": "xm",
+        "trans": [
+            "显",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ffvi",
+        "trans": [
+            "分支",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "wz",
+        "trans": [
+            "尾",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ji",
+        "trans": [
+            "集",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "uu",
+        "trans": [
+            "树",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "tsys",
+        "trans": [
+            "通用",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ma",
+        "trans": [
+            "码",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "自",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "lz",
+        "trans": [
+            "类",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "xyui",
+        "trans": [
+            "形式",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "vu",
+        "trans": [
+            "主",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "iavk",
+        "trans": [
+            "查找",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "mubc",
+        "trans": [
+            "目标",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "kexy",
+        "trans": [
+            "可行",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yuyj",
+        "trans": [
+            "语言",
+            10,
+            3
+        ]
+    },
+    {
+        "name": "irdi",
+        "trans": [
+            "传递",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "式",
+            22,
+            3
+        ]
+    },
+    {
+        "name": "gddu",
+        "trans": [
+            "广度",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ueji",
+        "trans": [
+            "设计",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "nzcp",
+        "trans": [
+            "内存",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "kohk",
+        "trans": [
+            "括号",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "laji",
+        "trans": [
+            "垃圾",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yuyj",
+        "trans": [
+            "语言",
+            10,
+            3
+        ]
+    },
+    {
+        "name": "mylyhh",
+        "trans": [
+            "命令行",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "an",
+        "trans": [
+            "按",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "fhwf",
+        "trans": [
+            "访问",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "uujuku",
+        "trans": [
+            "数据库",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "lzxy",
+        "trans": [
+            "类型",
+            24,
+            3
+        ]
+    },
+    {
+        "name": "xddg",
+        "trans": [
+            "相等",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dorfwu",
+        "trans": [
+            "多任务",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "jnig",
+        "trans": [
+            "进程",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ybxm",
+        "trans": [
+            "优先",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "jxgb",
+        "trans": [
+            "解构",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "igxu",
+        "trans": [
+            "程序",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "dcys",
+        "trans": [
+            "调用",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "值",
+            8,
+            3
+        ]
+    },
+    {
+        "name": "jxxi",
+        "trans": [
+            "解析",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "fu",
+        "trans": [
+            "符",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "jxxi",
+        "trans": [
+            "解析",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "fjwz",
+        "trans": [
+            "范围",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "uujuku",
+        "trans": [
+            "数据库",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "pohyxy",
+        "trans": [
+            "破坏性",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "uujulzxy",
+        "trans": [
+            "数据类型",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "keli",
+        "trans": [
+            "柯里",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xits",
+        "trans": [
+            "系统",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "fuvu",
+        "trans": [
+            "辅助",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "byxy",
+        "trans": [
+            "并行",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "lzxy",
+        "trans": [
+            "类型",
+            24,
+            3
+        ]
+    },
+    {
+        "name": "ypxy",
+        "trans": [
+            "运行",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "lxbc",
+        "trans": [
+            "列表",
+            8,
+            3
+        ]
+    },
+    {
+        "name": "dorfwu",
+        "trans": [
+            "多任务",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "zijx",
+        "trans": [
+            "字节",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "qi",
+        "trans": [
+            "器",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "tehw",
+        "trans": [
+            "特化",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "gkjx",
+        "trans": [
+            "高阶",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "yufa",
+        "trans": [
+            "语法",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "cjuu",
+        "trans": [
+            "参数",
+            9,
+            3
+        ]
+    },
+    {
+        "name": "bcji",
+        "trans": [
+            "标记",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "ihld",
+        "trans": [
+            "常量",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "xxlb",
+        "trans": [
+            "泄漏",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "vdzl",
+        "trans": [
+            "装载",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "fuvi",
+        "trans": [
+            "赋值",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "bmyi",
+        "trans": [
+            "编译",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "tvdk",
+        "trans": [
+            "推导",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "qqvi",
+        "trans": [
+            "求值",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "laji",
+        "trans": [
+            "垃圾",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ynys",
+        "trans": [
+            "引用",
+            6,
             2
         ]
     },
@@ -2376,11 +2080,27 @@
         ]
     },
     {
-        "name": "hexn",
+        "name": "hw",
         "trans": [
-            "核心",
-            2,
-            1
+            "化",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "kohu",
+        "trans": [
+            "括弧",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ugmy",
+        "trans": [
+            "声明",
+            11,
+            3
         ]
     },
     {
@@ -2392,969 +2112,297 @@
         ]
     },
     {
-        "name": "fhwf",
+        "name": "fhfa",
         "trans": [
-            "访问",
+            "方法",
             2,
             1
         ]
     },
     {
-        "name": "jiluyi",
+        "name": "rrjm",
         "trans": [
-            "记录仪",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yrxy",
-        "trans": [
-            "原型",
+            "软件",
             2,
             1
         ]
     },
     {
-        "name": "hvub",
+        "name": "dxdl",
         "trans": [
-            "回收",
-            1,
-            1
+            "迭代",
+            5,
+            2
         ]
     },
     {
-        "name": "myzi",
+        "name": "bibk",
         "trans": [
-            "名字",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jchu",
-        "trans": [
-            "交互",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ugigqi",
-        "trans": [
-            "生成器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vi",
-        "trans": [
-            "滞",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fubf",
-        "trans": [
-            "复本",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "buji",
-        "trans": [
-            "簿记",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ziyr",
-        "trans": [
-            "资源",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qmti",
-        "trans": [
-            "前提",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "djdm",
-        "trans": [
-            "单点",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zalr",
-        "trans": [
-            "杂乱",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kekovjxy",
-        "trans": [
-            "可扩展性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wjbz",
-        "trans": [
-            "完备",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "goduxyui",
-        "trans": [
-            "过渡形式",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nimy",
-        "trans": [
-            "匿名",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wzckzo",
-        "trans": [
-            "位操作",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xnxijiuu",
-        "trans": [
-            "信息技术",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pyvh",
-        "trans": [
-            "屏障",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jisr",
-        "trans": [
-            "计算",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kois",
-        "trans": [
-            "扩充",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dl",
-        "trans": [
-            "带",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wzto",
-        "trans": [
-            "委托",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nzvi",
-        "trans": [
-            "内置",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jmjx",
-        "trans": [
-            "简洁",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yn",
-        "trans": [
-            "隐",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "sl",
-        "trans": [
-            "塞",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jcuv",
-        "trans": [
-            "胶水",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xx",
-        "trans": [
-            "协",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gdbc",
-        "trans": [
-            "光标",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bzsler",
-        "trans": [
-            "贝塞尔",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ji",
-        "trans": [
-            "级",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yrze",
-        "trans": [
-            "原则",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pytj",
-        "trans": [
-            "平摊",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dywz",
-        "trans": [
-            "定位",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "grli",
-        "trans": [
-            "管理",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "iruu",
-        "trans": [
-            "传输",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ziir",
-        "trans": [
-            "字串",
+            "闭包",
             2,
             1
         ]
     },
     {
-        "name": "vrue",
+        "name": "wz",
         "trans": [
-            "专设",
-            1,
-            1
+            "尾",
+            3,
+            2
         ]
     },
     {
-        "name": "rsqi",
+        "name": "irdi",
         "trans": [
-            "容器",
-            1,
-            1
+            "传递",
+            3,
+            2
         ]
     },
     {
-        "name": "qudsigxu",
+        "name": "ui",
         "trans": [
-            "驱动程序",
-            1,
-            1
+            "式",
+            22,
+            3
         ]
     },
     {
-        "name": "bmyiqi",
+        "name": "kebm",
         "trans": [
-            "编译器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bcdj",
-        "trans": [
-            "表单",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vvjw",
-        "trans": [
-            "追加",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dyli",
-        "trans": [
-            "定理",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jytl",
-        "trans": [
-            "静态",
+            "可变",
             2,
             1
         ]
     },
     {
-        "name": "jcxt",
+        "name": "xdld",
         "trans": [
-            "教学",
-            1,
-            1
+            "向量",
+            3,
+            2
         ]
     },
     {
-        "name": "tcvr",
+        "name": "jxkb",
         "trans": [
-            "跳转",
-            1,
-            1
+            "接口",
+            3,
+            2
         ]
     },
     {
-        "name": "vedx",
+        "name": "vu",
         "trans": [
-            "折叠",
-            1,
-            1
+            "主",
+            3,
+            2
         ]
     },
     {
-        "name": "fuwuqi",
+        "name": "xphr",
         "trans": [
-            "服务器",
+            "循环",
+            6,
+            2
+        ]
+    },
+    {
+        "name": "vs",
+        "trans": [
+            "中",
             2,
             1
         ]
     },
     {
-        "name": "lp",
+        "name": "yyysigxu",
         "trans": [
-            "论",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wlbu",
-        "trans": [
-            "外部",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxgo",
-        "trans": [
-            "结果",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "glnm",
-        "trans": [
-            "概念",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fjhw",
-        "trans": [
-            "泛化",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "siso",
-        "trans": [
-            "死锁",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bzxr",
-        "trans": [
-            "备选",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gkxc",
-        "trans": [
-            "高效",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "eriauu",
-        "trans": [
-            "二叉树",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "quxm",
-        "trans": [
-            "曲线",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "juby",
-        "trans": [
-            "句柄",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dmvd",
-        "trans": [
-            "点状",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ziybrrjm",
-        "trans": [
-            "自由软件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fj",
-        "trans": [
-            "反",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "erff",
-        "trans": [
-            "二分",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tsyixy",
-        "trans": [
-            "同一性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gujm",
-        "trans": [
-            "固件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wfdh",
-        "trans": [
-            "文档",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vjkl",
-        "trans": [
-            "展开",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vguu",
-        "trans": [
-            "整数",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "duli",
-        "trans": [
-            "独立",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pajnsf",
-        "trans": [
-            "帕金森",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qifaui",
-        "trans": [
-            "启发式",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "he",
-        "trans": [
-            "和",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jixm",
-        "trans": [
-            "极限",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bu",
-        "trans": [
-            "补",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hbxr",
-        "trans": [
-            "候选",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gbzkqi",
-        "trans": [
-            "构造器",
+            "应用程序",
             2,
             1
         ]
     },
     {
-        "name": "gdyi",
+        "name": "bcuifa",
         "trans": [
-            "广义",
-            1,
-            1
+            "表示法",
+            5,
+            2
         ]
     },
     {
-        "name": "mqlp",
+        "name": "mzju",
         "trans": [
-            "谬论",
-            1,
-            1
+            "枚举",
+            3,
+            2
         ]
     },
     {
-        "name": "hb",
+        "name": "yiih",
         "trans": [
-            "后",
-            1,
-            1
+            "异常",
+            3,
+            2
         ]
     },
     {
-        "name": "dlhr",
+        "name": "igxu",
         "trans": [
-            "代换",
+            "程序",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "xu",
+        "trans": [
+            "序",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "dcys",
+        "trans": [
+            "调用",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "tvdk",
+        "trans": [
+            "推导",
+            4,
+            2
+        ]
+    },
+    {
+        "name": "hj",
+        "trans": [
+            "函",
             2,
             1
         ]
     },
     {
-        "name": "mobj",
+        "name": "hjuu",
         "trans": [
-            "模版",
+            "函数",
+            19,
+            3
+        ]
+    },
+    {
+        "name": "mzju",
+        "trans": [
+            "枚举",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "sbso",
+        "trans": [
+            "搜索",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "hjuu",
+        "trans": [
+            "函数",
+            19,
+            3
+        ]
+    },
+    {
+        "name": "cifa",
+        "trans": [
+            "词法",
+            5,
+            2
+        ]
+    },
+    {
+        "name": "pohyxy",
+        "trans": [
+            "破坏性",
+            3,
+            2
+        ]
+    },
+    {
+        "name": "hexn",
+        "trans": [
+            "核心",
             2,
             1
         ]
     },
     {
-        "name": "gbyr",
+        "name": "ckzofu",
         "trans": [
-            "构元",
-            1,
-            1
+            "操作符",
+            4,
+            2
         ]
     },
     {
-        "name": "vfli",
+        "name": "yyys",
         "trans": [
-            "真理",
-            1,
-            1
+            "应用",
+            5,
+            2
         ]
     },
     {
-        "name": "yiky",
+        "name": "iuli",
         "trans": [
-            "一块",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jrqu",
-        "trans": [
-            "卷曲",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fuhe",
-        "trans": [
-            "复合",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gsji",
-        "trans": [
-            "攻击",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lzjwqi",
-        "trans": [
-            "累加器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uwxn",
-        "trans": [
-            "刷新",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bmkd",
-        "trans": [
-            "边框",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fhig",
-        "trans": [
-            "方程",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "irxy",
-        "trans": [
-            "串行",
+            "处理",
             2,
             1
         ]
     },
     {
-        "name": "ig",
+        "name": "nzcp",
         "trans": [
-            "程",
-            1,
-            1
+            "内存",
+            6,
+            2
         ]
     },
     {
-        "name": "nzbu",
+        "name": "uu",
         "trans": [
-            "内部",
-            1,
-            1
+            "树",
+            3,
+            2
         ]
     },
     {
-        "name": "gkji",
+        "name": "wuxm",
         "trans": [
-            "高级",
-            1,
-            1
+            "无限",
+            3,
+            2
         ]
     },
     {
-        "name": "juti",
+        "name": "ybxm",
         "trans": [
-            "具体",
-            1,
-            1
+            "优先",
+            4,
+            2
         ]
     },
     {
-        "name": "plxi",
+        "name": "xxzo",
         "trans": [
-            "派系",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fuzadu",
-        "trans": [
-            "复杂度",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yjjq",
-        "trans": [
-            "研究",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "plug",
-        "trans": [
-            "派生",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jibf",
-        "trans": [
-            "基本",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gsynuu",
-        "trans": [
-            "公因数",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kpjy",
-        "trans": [
-            "困境",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jmjc",
-        "trans": [
-            "尖叫",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fuwutigsuh",
-        "trans": [
-            "服务提供商",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hzke",
-        "trans": [
-            "黑客",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "anqr",
-        "trans": [
-            "安全",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "mulu",
-        "trans": [
-            "目录",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gbzk",
-        "trans": [
-            "构造",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hezi",
-        "trans": [
-            "合子",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nzqm",
-        "trans": [
-            "内嵌",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xcgo",
-        "trans": [
-            "效果",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tidk",
-        "trans": [
-            "剃刀",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jili",
-        "trans": [
-            "机理",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "soltyu",
-        "trans": [
-            "缩略语",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fgbi",
-        "trans": [
-            "封闭",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uujujxgb",
-        "trans": [
-            "数据结构",
+            "协作",
             1,
             1
         ]
@@ -3368,1217 +2416,9 @@
         ]
     },
     {
-        "name": "dovs",
-        "trans": [
-            "多重",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ubjiqi",
-        "trans": [
-            "收集器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uifh",
-        "trans": [
-            "释放",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gvfj",
-        "trans": [
-            "规范",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jwdy",
-        "trans": [
-            "假定",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "rfgsving",
-        "trans": [
-            "人工智能",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tofg",
-        "trans": [
-            "驼峰",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fzqi",
-        "trans": [
-            "废弃",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "irjx",
-        "trans": [
-            "串接",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uejimoui",
-        "trans": [
-            "设计模式",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "diyi",
-        "trans": [
-            "第一",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hrcp",
-        "trans": [
-            "缓存",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tvii",
-        "trans": [
-            "推迟",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "moerdylv",
-        "trans": [
-            "摩尔定律",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kekovj",
-        "trans": [
-            "可扩展",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ffpl",
-        "trans": [
-            "分派",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zgld",
-        "trans": [
-            "增量",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ugig",
-        "trans": [
-            "生成",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xitsgrliyr",
-        "trans": [
-            "系统管理员",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "hjuudcys",
-        "trans": [
-            "函数调用",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "daxcxx",
-        "trans": [
-            "大小写",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uijx",
-        "trans": [
-            "世界",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "whgr",
-        "trans": [
-            "网关",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wf",
-        "trans": [
-            "文",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tviu",
-        "trans": [
-            "退出",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ffbuuijisr",
-        "trans": [
-            "分布式计算",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vrfa",
-        "trans": [
-            "转发",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wzdu",
-        "trans": [
-            "维度",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tbbu",
-        "trans": [
-            "头部",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xdxwjmrs",
-        "trans": [
-            "向下兼容",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uijm",
-        "trans": [
-            "事件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dkru",
-        "trans": [
-            "导入",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qmmy",
-        "trans": [
-            "签名",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "pluglz",
-        "trans": [
-            "派生类",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hzxd",
-        "trans": [
-            "黑箱",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mzgogofhbu",
-        "trans": [
-            "美国国防部",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dluu",
-        "trans": [
-            "代数",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tbwfjm",
-        "trans": [
-            "头文件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "idkb",
-        "trans": [
-            "窗口",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "tbmy",
-        "trans": [
-            "透明",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "gelnsipj",
-        "trans": [
-            "格林斯潘",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jmrs",
-        "trans": [
-            "兼容",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qtug",
-        "trans": [
-            "缺省",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "teuu",
-        "trans": [
-            "特殊",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "yjxuxy",
-        "trans": [
-            "延续性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xclv",
-        "trans": [
-            "效率",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mitu",
-        "trans": [
-            "迷途",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uu",
-        "trans": [
-            "数",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dauu",
-        "trans": [
-            "大数",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kehu",
-        "trans": [
-            "客户",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qmruui",
-        "trans": [
-            "嵌入式",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zvda",
-        "trans": [
-            "最大",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tkto",
-        "trans": [
-            "逃脱",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kels",
-        "trans": [
-            "克隆",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dkiu",
-        "trans": [
-            "导出",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gsuihw",
-        "trans": [
-            "公式化",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jiyu",
-        "trans": [
-            "基于",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zifu",
-        "trans": [
-            "字符",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "csmyrf",
-        "trans": [
-            "聪明人",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ui",
-        "trans": [
-            "十",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xunicpiu",
-        "trans": [
-            "虚拟存储",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "haxi",
-        "trans": [
-            "哈希",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uipzqi",
-        "trans": [
-            "适配器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dylv",
-        "trans": [
-            "定律",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hw",
-        "trans": [
-            "花",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uijmquds",
-        "trans": [
-            "事件驱动",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dcuiqi",
-        "trans": [
-            "调试器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pojx",
-        "trans": [
-            "破解",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "whlotixi",
-        "trans": [
-            "网络体系",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nzcg",
-        "trans": [
-            "内层",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yaso",
-        "trans": [
-            "压缩",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jydu",
-        "trans": [
-            "精度",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dgjw",
-        "trans": [
-            "等价",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "iixu",
-        "trans": [
-            "持续",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ujcp",
-        "trans": [
-            "闪存",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jmtsxn",
-        "trans": [
-            "间通信",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xxzo",
-        "trans": [
-            "协作",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "faze",
-        "trans": [
-            "法则",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "eryr",
-        "trans": [
-            "二元",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tmis",
-        "trans": [
-            "填充",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jihwju",
-        "trans": [
-            "计划局",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xycj",
-        "trans": [
-            "形参",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bcdangli",
-        "trans": [
-            "表达能力",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xu",
-        "trans": [
-            "虚",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "cowu",
-        "trans": [
-            "错误",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "poui",
-        "trans": [
-            "迫使",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lzku",
-        "trans": [
-            "类库",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvdc",
-        "trans": [
-            "回调",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fhvf",
-        "trans": [
-            "仿真",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dlkr",
-        "trans": [
-            "带宽",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vd",
-        "trans": [
-            "状",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nzrs",
-        "trans": [
-            "内容",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxig",
-        "trans": [
-            "阶乘",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvubqi",
-        "trans": [
-            "回收器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bcuifu",
-        "trans": [
-            "标识符",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "anqrtk",
-        "trans": [
-            "安全套",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "cipjvflx",
-        "trans": [
-            "磁盘阵列",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vujx",
-        "trans": [
-            "注解",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ksjm",
-        "trans": [
-            "控件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xdzi",
-        "trans": [
-            "箱子",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vbqi",
-        "trans": [
-            "周期",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "aokamu",
-        "trans": [
-            "奥卡姆",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yb",
-        "trans": [
-            "右",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xqui",
-        "trans": [
-            "修饰",
-            2,
-            1
-        ]
-    },
-    {
         "name": "hvsu",
         "trans": [
             "回溯",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bc",
-        "trans": [
-            "表",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ziti",
-        "trans": [
-            "字体",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uhxwwf",
-        "trans": [
-            "上下文",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "golv",
-        "trans": [
-            "过滤",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "budsdm",
-        "trans": [
-            "不动点",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yivi",
-        "trans": [
-            "一致",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tsyi",
-        "trans": [
-            "统一",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ffxy",
-        "trans": [
-            "分形",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zu",
-        "trans": [
-            "组",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jmtxbj",
-        "trans": [
-            "剪贴板",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "guhw",
-        "trans": [
-            "固化",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "soxd",
-        "trans": [
-            "所想",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "diyu",
-        "trans": [
-            "地狱",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bzyesi",
-        "trans": [
-            "贝叶斯",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fh",
-        "trans": [
-            "方",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "cowuxnxi",
-        "trans": [
-            "错误信息",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tvlp",
-        "trans": [
-            "推论",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zilz",
-        "trans": [
-            "子类",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tese",
-        "trans": [
-            "特色",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "divi",
-        "trans": [
-            "地址",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qtxm",
-        "trans": [
-            "缺陷",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lyhoxy",
-        "trans": [
-            "灵活性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "cg",
-        "trans": [
-            "层",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fuza",
-        "trans": [
-            "复杂",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxmm",
-        "trans": [
-            "界面",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lmjx",
-        "trans": [
-            "连接",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "quds",
-        "trans": [
-            "驱动",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jyjmvily",
-        "trans": [
-            "精简指令",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxzi",
-        "trans": [
-            "接字",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "sj",
-        "trans": [
-            "散",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kkbz",
-        "trans": [
-            "拷贝",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qyxi",
-        "trans": [
-            "清晰",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvbm",
-        "trans": [
-            "汇编",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tjso",
-        "trans": [
-            "探索",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pgvh",
-        "trans": [
-            "膨胀",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "grxi",
-        "trans": [
-            "关系",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "drdm",
-        "trans": [
-            "断点",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "iaxp",
-        "trans": [
-            "查询",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "vidl",
-        "trans": [
-            "指代",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "iklmjx",
-        "trans": [
-            "超链接",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yypj",
-        "trans": [
-            "硬盘",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uujubk",
-        "trans": [
-            "数据报",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "sojmji",
-        "trans": [
-            "所见即",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ybxi",
-        "trans": [
-            "游戏",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pyce",
-        "trans": [
-            "评测",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dyvh",
-        "trans": [
-            "定长",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "daxx",
-        "trans": [
-            "大写",
             1,
             1
         ]
@@ -4592,201 +2432,41 @@
         ]
     },
     {
-        "name": "fgvd",
-        "trans": [
-            "封装",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zujm",
-        "trans": [
-            "组件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gsngxy",
-        "trans": [
-            "功能性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "buer",
-        "trans": [
-            "布尔",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xmig",
-        "trans": [
-            "线程",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "rsyu",
-        "trans": [
-            "冗余",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xilidu",
-        "trans": [
-            "细粒度",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tulyji",
-        "trans": [
-            "图灵机",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zidr",
-        "trans": [
-            "字段",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vryizifu",
-        "trans": [
-            "转义字符",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "cojt",
-        "trans": [
-            "错觉",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "sojmjisode",
-        "trans": [
-            "所见即所得",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gvge",
-        "trans": [
-            "规格",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "tuly",
-        "trans": [
-            "图灵",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jiho",
-        "trans": [
-            "激活",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zvjw",
-        "trans": [
-            "最佳",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pzvi",
-        "trans": [
-            "配置",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dbhk",
-        "trans": [
-            "逗号",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dcdu",
-        "trans": [
-            "调度",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "tuxyyshujxmm",
-        "trans": [
-            "图形用户界面",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "eria",
-        "trans": [
-            "二叉",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jiig",
-        "trans": [
-            "继承",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ugij",
-        "trans": [
-            "生产",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wzbu",
-        "trans": [
-            "尾部",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xcyj",
+        "name": "jcyj",
         "trans": [
             "校验",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nzbu",
+        "trans": [
+            "内部",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kpjy",
+        "trans": [
+            "困境",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dkru",
+        "trans": [
+            "导入",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tcuiqi",
+        "trans": [
+            "调试器",
             1,
             1
         ]
@@ -4800,89 +2480,2329 @@
         ]
     },
     {
-        "name": "jiqixtxi",
+        "name": "uejimoui",
         "trans": [
-            "机器学习",
+            "设计模式",
             1,
             1
         ]
     },
     {
-        "name": "zirjyuyjiuli",
+        "name": "tvii",
         "trans": [
-            "自然语言处理",
+            "推迟",
             1,
             1
         ]
     },
     {
-        "name": "jiyi",
+        "name": "ui",
         "trans": [
-            "记忆",
+            "十",
             1,
             1
         ]
     },
     {
-        "name": "hulmwh",
+        "name": "vbqi",
         "trans": [
-            "互联网",
+            "周期",
             1,
             1
         ]
     },
     {
-        "name": "juiivd",
+        "name": "wf",
         "trans": [
-            "锯齿状",
+            "文",
             1,
             1
         ]
     },
     {
-        "name": "jxui",
+        "name": "tuxyyshujxmm",
         "trans": [
-            "解释",
+            "图形用户界面",
             1,
             1
         ]
     },
     {
-        "name": "yyuehjuu",
+        "name": "xmig",
         "trans": [
-            "映射函数",
+            "线程",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "hvdc",
+        "trans": [
+            "回调",
             1,
             1
         ]
     },
     {
-        "name": "klxc",
+        "name": "xclv",
         "trans": [
-            "开销",
+            "效率",
             1,
             1
         ]
     },
     {
-        "name": "jxxiqi",
+        "name": "lyhoxy",
         "trans": [
-            "解析器",
+            "灵活性",
             1,
             1
         ]
     },
     {
-        "name": "ghgj",
+        "name": "irhh",
         "trans": [
-            "杠杆",
+            "串行",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "xu",
+        "trans": [
+            "虚",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "iruu",
+        "trans": [
+            "传输",
             1,
             1
         ]
     },
     {
-        "name": "mmxddvxdbmig",
+        "name": "ig",
         "trans": [
-            "面向对象编程",
+            "程",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vjkl",
+        "trans": [
+            "展开",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fubf",
+        "trans": [
+            "复本",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mqlp",
+        "trans": [
+            "谬论",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pytj",
+        "trans": [
+            "平摊",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "sl",
+        "trans": [
+            "塞",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nzrs",
+        "trans": [
+            "内容",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yypj",
+        "trans": [
+            "硬盘",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fgvd",
+        "trans": [
+            "封装",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ziir",
+        "trans": [
+            "字串",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dauu",
+        "trans": [
+            "大数",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yivi",
+        "trans": [
+            "一致",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ugij",
+        "trans": [
+            "生产",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcdj",
+        "trans": [
+            "表单",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wjbz",
+        "trans": [
+            "完备",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "golv",
+        "trans": [
+            "过滤",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hrcp",
+        "trans": [
+            "缓存",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jihwju",
+        "trans": [
+            "计划局",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxmm",
+        "trans": [
+            "界面",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "diyu",
+        "trans": [
+            "地狱",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "plug",
+        "trans": [
+            "派生",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hvubqi",
+        "trans": [
+            "回收器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "juby",
+        "trans": [
+            "句柄",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "djdm",
+        "trans": [
+            "单点",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "whgr",
+        "trans": [
+            "网关",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "soxd",
+        "trans": [
+            "所想",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dgjw",
+        "trans": [
+            "等价",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ubjiqi",
+        "trans": [
+            "收集器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xycj",
+        "trans": [
+            "形参",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxzi",
+        "trans": [
+            "接字",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuwuqi",
+        "trans": [
+            "服务器",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "plxi",
+        "trans": [
+            "派系",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gujm",
+        "trans": [
+            "固件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ugigqi",
+        "trans": [
+            "生成器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vvjw",
+        "trans": [
+            "追加",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xnxijiuu",
+        "trans": [
+            "信息技术",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zalr",
+        "trans": [
+            "杂乱",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ujcp",
+        "trans": [
+            "闪存",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuza",
+        "trans": [
+            "复杂",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hw",
+        "trans": [
+            "花",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "myzi",
+        "trans": [
+            "名字",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bzxr",
+        "trans": [
+            "备选",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xqui",
+        "trans": [
+            "修饰",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "hbxr",
+        "trans": [
+            "候选",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jili",
+        "trans": [
+            "机理",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "cowu",
+        "trans": [
+            "错误",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jwdy",
+        "trans": [
+            "假定",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmjc",
+        "trans": [
+            "尖叫",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "grli",
+        "trans": [
+            "管理",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "irjx",
+        "trans": [
+            "串接",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uu",
+        "trans": [
+            "数",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jibf",
+        "trans": [
+            "基本",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qudsigxu",
+        "trans": [
+            "驱动程序",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ugig",
+        "trans": [
+            "生成",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fhvf",
+        "trans": [
+            "仿真",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kekovjxy",
+        "trans": [
+            "可扩展性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nzqm",
+        "trans": [
+            "内嵌",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vujx",
+        "trans": [
+            "注解",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vfli",
+        "trans": [
+            "真理",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "grxi",
+        "trans": [
+            "关系",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fgbi",
+        "trans": [
+            "封闭",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hb",
+        "trans": [
+            "后",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fj",
+        "trans": [
+            "反",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zvjw",
+        "trans": [
+            "最佳",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jcxt",
+        "trans": [
+            "教学",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "teuu",
+        "trans": [
+            "特殊",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "tuly",
+        "trans": [
+            "图灵",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pajnsf",
+        "trans": [
+            "帕金森",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nzvi",
+        "trans": [
+            "内置",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hjuudcys",
+        "trans": [
+            "函数调用",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yb",
+        "trans": [
+            "右",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "qmruui",
+        "trans": [
+            "嵌入式",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcvifu",
+        "trans": [
+            "标识符",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gvfj",
+        "trans": [
+            "规范",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ffpl",
+        "trans": [
+            "分派",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dbhk",
+        "trans": [
+            "逗号",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rfgsving",
+        "trans": [
+            "人工智能",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bu",
+        "trans": [
+            "补",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "sj",
+        "trans": [
+            "散",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zu",
+        "trans": [
+            "组",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wfdh",
+        "trans": [
+            "文档",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ji",
+        "trans": [
+            "级",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxgo",
+        "trans": [
+            "结果",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uijm",
+        "trans": [
+            "事件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ziti",
+        "trans": [
+            "字体",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tofg",
+        "trans": [
+            "驼峰",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vrue",
+        "trans": [
+            "专设",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qtxm",
+        "trans": [
+            "缺陷",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hvbm",
+        "trans": [
+            "汇编",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rsyu",
+        "trans": [
+            "冗余",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "buer",
+        "trans": [
+            "布尔",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uipzqi",
+        "trans": [
+            "适配器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tjso",
+        "trans": [
+            "探索",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmtsxn",
+        "trans": [
+            "间通信",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuwutigsuh",
+        "trans": [
+            "服务提供商",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bmkd",
+        "trans": [
+            "边框",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uijx",
+        "trans": [
+            "世界",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fjhw",
+        "trans": [
+            "泛化",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mzgogofhbu",
+        "trans": [
+            "美国国防部",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tmis",
+        "trans": [
+            "填充",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ffbuuijisr",
+        "trans": [
+            "分布式计算",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "duli",
+        "trans": [
+            "独立",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uijmquds",
+        "trans": [
+            "事件驱动",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vedx",
+        "trans": [
+            "折叠",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuzadu",
+        "trans": [
+            "复杂度",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kels",
+        "trans": [
+            "克隆",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dois",
+        "trans": [
+            "多重",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jiyu",
+        "trans": [
+            "基于",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "erff",
+        "trans": [
+            "二分",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmrs",
+        "trans": [
+            "兼容",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "budsdm",
+        "trans": [
+            "不动点",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ffxy",
+        "trans": [
+            "分形",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzckzo",
+        "trans": [
+            "位操作",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jixm",
+        "trans": [
+            "极限",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dl",
+        "trans": [
+            "带",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pluglz",
+        "trans": [
+            "派生类",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dlhr",
+        "trans": [
+            "代换",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "iixu",
+        "trans": [
+            "持续",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yjxuxy",
+        "trans": [
+            "延续性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "quds",
+        "trans": [
+            "驱动",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ziyr",
+        "trans": [
+            "资源",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bmyiqi",
+        "trans": [
+            "编译器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dylv",
+        "trans": [
+            "定律",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "haxi",
+        "trans": [
+            "哈希",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bc",
+        "trans": [
+            "表",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "poui",
+        "trans": [
+            "迫使",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vidl",
+        "trans": [
+            "指代",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uujujxgb",
+        "trans": [
+            "数据结构",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxig",
+        "trans": [
+            "阶乘",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fhig",
+        "trans": [
+            "方程",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yjjq",
+        "trans": [
+            "研究",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jrqu",
+        "trans": [
+            "卷曲",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "faze",
+        "trans": [
+            "法则",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "anqrtk",
+        "trans": [
+            "安全套",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dmvd",
+        "trans": [
+            "点状",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uhxwwf",
+        "trans": [
+            "上下文",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jiho",
+        "trans": [
+            "激活",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tulyji",
+        "trans": [
+            "图灵机",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcdangli",
+        "trans": [
+            "表达能力",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gbzkqi",
+        "trans": [
+            "构造器",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "gsuihw",
+        "trans": [
+            "公式化",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hzxd",
+        "trans": [
+            "黑箱",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xdxwjmrs",
+        "trans": [
+            "向下兼容",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "eryr",
+        "trans": [
+            "二元",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xunicpiu",
+        "trans": [
+            "虚拟存储",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uwxn",
+        "trans": [
+            "刷新",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zvda",
+        "trans": [
+            "最大",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmjx",
+        "trans": [
+            "简洁",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "goduxyui",
+        "trans": [
+            "过渡形式",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tbbu",
+        "trans": [
+            "头部",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tsyi",
+        "trans": [
+            "统一",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tbmy",
+        "trans": [
+            "透明",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "yn",
+        "trans": [
+            "隐",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "juti",
+        "trans": [
+            "具体",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xitsgrliyr",
+        "trans": [
+            "系统管理员",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "gdyi",
+        "trans": [
+            "广义",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gdbc",
+        "trans": [
+            "光标",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mobj",
+        "trans": [
+            "模版",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "tviu",
+        "trans": [
+            "退出",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tkto",
+        "trans": [
+            "逃脱",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kehu",
+        "trans": [
+            "客户",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gsngxy",
+        "trans": [
+            "功能性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuhe",
+        "trans": [
+            "复合",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tvlp",
+        "trans": [
+            "推论",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zgld",
+        "trans": [
+            "增量",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "guhw",
+        "trans": [
+            "固化",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "siso",
+        "trans": [
+            "死锁",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gelnsipj",
+        "trans": [
+            "格林斯潘",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jiig",
+        "trans": [
+            "继承",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ziybrrjm",
+        "trans": [
+            "自由软件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dywz",
+        "trans": [
+            "定位",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nzcg",
+        "trans": [
+            "内层",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmtxbj",
+        "trans": [
+            "剪贴板",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jytl",
+        "trans": [
+            "静态",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "gsynuu",
+        "trans": [
+            "公因数",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "diyi",
+        "trans": [
+            "第一",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "whlotixi",
+        "trans": [
+            "网络体系",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "moerdylv",
+        "trans": [
+            "摩尔定律",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hezi",
+        "trans": [
+            "合子",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vd",
+        "trans": [
+            "状",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dkiu",
+        "trans": [
+            "导出",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kois",
+        "trans": [
+            "扩充",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uifh",
+        "trans": [
+            "释放",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "quxm",
+        "trans": [
+            "曲线",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vryizifu",
+        "trans": [
+            "转义字符",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xx",
+        "trans": [
+            "协",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wlbu",
+        "trans": [
+            "外部",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "he",
+        "trans": [
+            "和",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jiluyi",
+        "trans": [
+            "记录仪",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzbu",
+        "trans": [
+            "尾部",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gkji",
+        "trans": [
+            "高级",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qyxi",
+        "trans": [
+            "清晰",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qifaui",
+        "trans": [
+            "启发式",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pgvh",
+        "trans": [
+            "膨胀",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "aokamu",
+        "trans": [
+            "奥卡姆",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "iklmjx",
+        "trans": [
+            "超链接",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gbyr",
+        "trans": [
+            "构元",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "csmyrf",
+        "trans": [
+            "聪明人",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zifu",
+        "trans": [
+            "字符",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fh",
+        "trans": [
+            "方",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "cipjvflx",
+        "trans": [
+            "磁盘阵列",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mitu",
+        "trans": [
+            "迷途",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tidk",
+        "trans": [
+            "剃刀",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yaso",
+        "trans": [
+            "压缩",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tbwfjm",
+        "trans": [
+            "头文件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yrze",
+        "trans": [
+            "原则",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uujubk",
+        "trans": [
+            "数据报",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pyvh",
+        "trans": [
+            "屏障",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jchu",
+        "trans": [
+            "交互",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "soltyu",
+        "trans": [
+            "缩略语",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kekovj",
+        "trans": [
+            "可扩展",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "cowuxnxi",
+        "trans": [
+            "错误信息",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zilz",
+        "trans": [
+            "子类",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "cojt",
+        "trans": [
+            "错觉",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "滞",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "glnm",
+        "trans": [
+            "概念",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lzjwqi",
+        "trans": [
+            "累加器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ybxi",
+        "trans": [
+            "游戏",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tese",
+        "trans": [
+            "特色",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dcdu",
+        "trans": [
+            "调度",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "lp",
+        "trans": [
+            "论",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "eria",
+        "trans": [
+            "二叉",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xilidu",
+        "trans": [
+            "细粒度",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pyce",
+        "trans": [
+            "评测",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "gkxc",
+        "trans": [
+            "高效",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "idkb",
+        "trans": [
+            "窗口",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "drdm",
+        "trans": [
+            "断点",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jyjmvily",
+        "trans": [
+            "精简指令",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rsqi",
+        "trans": [
+            "容器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lmjx",
+        "trans": [
+            "连接",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "iaxp",
+        "trans": [
+            "查询",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dluu",
+        "trans": [
+            "代数",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yiky",
+        "trans": [
+            "一块",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xdzi",
+        "trans": [
+            "箱子",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gbzk",
+        "trans": [
+            "构造",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hvub",
+        "trans": [
+            "回收",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gvge",
+        "trans": [
+            "规格",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dlkr",
+        "trans": [
+            "带宽",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qtug",
+        "trans": [
+            "缺省",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kkbz",
+        "trans": [
+            "拷贝",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tcvr",
+        "trans": [
+            "跳转",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lzku",
+        "trans": [
+            "类库",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "eriauu",
+        "trans": [
+            "二叉树",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qmmy",
+        "trans": [
+            "签名",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "dyli",
+        "trans": [
+            "定理",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pzvi",
+        "trans": [
+            "配置",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ksjm",
+        "trans": [
+            "控件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vguu",
+        "trans": [
+            "整数",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "sojmjisode",
+        "trans": [
+            "所见即所得",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xcgo",
+        "trans": [
+            "效果",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mulu",
+        "trans": [
+            "目录",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nimy",
+        "trans": [
+            "匿名",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "divi",
+        "trans": [
+            "地址",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zujm",
+        "trans": [
+            "组件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dyvh",
+        "trans": [
+            "定长",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qmti",
+        "trans": [
+            "前提",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yrxy",
+        "trans": [
+            "原型",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "sojmji",
+        "trans": [
+            "所见即",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "buji",
+        "trans": [
+            "簿记",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "anqr",
+        "trans": [
+            "安全",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "fzqi",
+        "trans": [
+            "废弃",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bzyesi",
+        "trans": [
+            "贝叶斯",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzto",
+        "trans": [
+            "委托",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vrfa",
+        "trans": [
+            "转发",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gsji",
+        "trans": [
+            "攻击",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bzsler",
+        "trans": [
+            "贝塞尔",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pojx",
+        "trans": [
+            "破解",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tsyixy",
+        "trans": [
+            "同一性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hzke",
+        "trans": [
+            "黑客",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jcuv",
+        "trans": [
+            "胶水",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zidr",
+        "trans": [
+            "字段",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzdu",
+        "trans": [
+            "维度",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "daxcxx",
+        "trans": [
+            "大小写",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jydu",
+        "trans": [
+            "精度",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "daxx",
+        "trans": [
+            "大写",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jisr",
+        "trans": [
+            "计算",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "cg",
+        "trans": [
+            "层",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ue",
+        "trans": [
+            "射",
             1,
             1
         ]
@@ -4896,345 +4816,9 @@
         ]
     },
     {
-        "name": "bxjc",
-        "trans": [
-            "蹩脚",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "myvi",
-        "trans": [
-            "明智",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xyng",
-        "trans": [
-            "性能",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xdsu",
-        "trans": [
-            "像素",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvwf",
-        "trans": [
-            "回文",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xrzexy",
-        "trans": [
-            "选择性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yilq",
-        "trans": [
-            "遗留",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "moky",
-        "trans": [
-            "模块",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jihw",
-        "trans": [
-            "计画",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ksjm",
-        "trans": [
-            "空间",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bjxy",
-        "trans": [
-            "版型",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "so",
-        "trans": [
-            "锁",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wuli",
-        "trans": [
-            "物理",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jubuxy",
-        "trans": [
-            "局部性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jcji",
-        "trans": [
-            "交集",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "anvi",
-        "trans": [
-            "按址",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dcvijxdcqi",
-        "trans": [
-            "调制解调器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fu",
-        "trans": [
-            "覆",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vsjmjm",
-        "trans": [
-            "中间件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zovi",
-        "trans": [
-            "左值",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "klfhyrma",
-        "trans": [
-            "开放源码",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wzhu",
-        "trans": [
-            "维护",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jy",
-        "trans": [
-            "镜",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mmxddvxd",
-        "trans": [
-            "面向对象",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "djzi",
-        "trans": [
-            "单子",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fjui",
-        "trans": [
-            "范式",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fu",
-        "trans": [
-            "父",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ugmyqi",
-        "trans": [
-            "生命期",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "eewl",
-        "trans": [
-            "额外",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jigd",
-        "trans": [
-            "激光",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xcxi",
-        "trans": [
-            "消息",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vjwz",
-        "trans": [
-            "占位",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vszl",
-        "trans": [
-            "重载",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vgjc",
-        "trans": [
-            "正交",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mymy",
-        "trans": [
-            "命名",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "huii",
-        "trans": [
-            "互斥",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hbzi",
-        "trans": [
-            "猴子",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lmjx",
-        "trans": [
-            "链接",
-            1,
-            1
-        ]
-    },
-    {
         "name": "uuzi",
         "trans": [
             "数字",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jububmld",
-        "trans": [
-            "局部变量",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uubc",
-        "trans": [
-            "鼠标",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "do",
-        "trans": [
-            "多",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lmjxqi",
-        "trans": [
-            "连接器",
             1,
             1
         ]
@@ -5248,9 +4832,9 @@
         ]
     },
     {
-        "name": "kexr",
+        "name": "fu",
         "trans": [
-            "可选",
+            "父",
             1,
             1
         ]
@@ -5264,89 +4848,41 @@
         ]
     },
     {
-        "name": "ckzoxits",
+        "name": "bjbf",
         "trans": [
-            "操作系统",
+            "版本",
             1,
             1
         ]
     },
     {
-        "name": "iuxy",
+        "name": "ihgv",
         "trans": [
-            "雏形",
+            "常规",
             1,
             1
         ]
     },
     {
-        "name": "qtdyxy",
+        "name": "hbzi",
         "trans": [
-            "确定性",
+            "猴子",
             1,
             1
         ]
     },
     {
-        "name": "zvxc",
+        "name": "jububmld",
         "trans": [
-            "最小",
+            "局部变量",
             1,
             1
         ]
     },
     {
-        "name": "ybjm",
+        "name": "ghgj",
         "trans": [
-            "邮件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xrxd",
-        "trans": [
-            "选项",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mouipipz",
-        "trans": [
-            "模式匹配",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vsvi",
-        "trans": [
-            "中止",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ckzsqi",
-        "trans": [
-            "操纵器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yjsr",
-        "trans": [
-            "演算",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "liui",
-        "trans": [
-            "历史",
+            "杠杆",
             1,
             1
         ]
@@ -5368,121 +4904,113 @@
         ]
     },
     {
-        "name": "xdmm",
+        "name": "ybxu",
         "trans": [
-            "相面",
+            "有序",
             1,
             1
         ]
     },
     {
-        "name": "qmyi",
+        "name": "jiqixtxi",
         "trans": [
-            "迁移",
+            "机器学习",
             1,
             1
         ]
     },
     {
-        "name": "idye",
+        "name": "bjxy",
         "trans": [
-            "创业",
+            "版型",
             1,
             1
         ]
     },
     {
-        "name": "xcxiirdi",
+        "name": "so",
         "trans": [
-            "消息传递",
+            "锁",
             1,
             1
         ]
     },
     {
-        "name": "ld",
+        "name": "yjsr",
         "trans": [
-            "量",
+            "演算",
             1,
             1
         ]
     },
     {
-        "name": "jiqivily",
+        "name": "ckzsqi",
         "trans": [
-            "机器指令",
+            "操纵器",
             1,
             1
         ]
     },
     {
-        "name": "cldj",
+        "name": "juiivd",
         "trans": [
-            "菜单",
+            "锯齿状",
             1,
             1
         ]
     },
     {
-        "name": "hrxy",
+        "name": "jxui",
         "trans": [
-            "换行",
+            "解释",
             1,
             1
         ]
     },
     {
-        "name": "zlxm",
+        "name": "jigd",
         "trans": [
-            "在线",
+            "激光",
             1,
             1
         ]
     },
     {
-        "name": "zirjyuyj",
+        "name": "eewl",
         "trans": [
-            "自然语言",
+            "额外",
             1,
             1
         ]
     },
     {
-        "name": "ffbu",
+        "name": "wuli",
         "trans": [
-            "分步",
+            "物理",
             1,
             1
         ]
     },
     {
-        "name": "igyr",
+        "name": "djzi",
         "trans": [
-            "成员",
+            "单子",
             1,
             1
         ]
     },
     {
-        "name": "budy",
+        "name": "xyng",
         "trans": [
-            "补丁",
+            "性能",
             1,
             1
         ]
     },
     {
-        "name": "uuxtjw",
+        "name": "gssi",
         "trans": [
-            "数学家",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "miji",
-        "trans": [
-            "密集",
+            "公司",
             1,
             1
         ]
@@ -5496,17 +5024,25 @@
         ]
     },
     {
-        "name": "ytuutcjm",
+        "name": "ugmyqi",
         "trans": [
-            "约束条件",
+            "生命期",
             1,
             1
         ]
     },
     {
-        "name": "vixy",
+        "name": "jxuiqi",
         "trans": [
-            "执行",
+            "解释器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qtdyxy",
+        "trans": [
+            "确定性",
             1,
             1
         ]
@@ -5520,9 +5056,105 @@
         ]
     },
     {
-        "name": "bjbf",
+        "name": "ckzoxits",
         "trans": [
-            "版本",
+            "操作系统",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mymy",
+        "trans": [
+            "命名",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "budy",
+        "trans": [
+            "补丁",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzhu",
+        "trans": [
+            "维护",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "iijqxy",
+        "trans": [
+            "持久性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xdsu",
+        "trans": [
+            "像素",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "miji",
+        "trans": [
+            "密集",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lmjxqi",
+        "trans": [
+            "连接器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxxiqi",
+        "trans": [
+            "解析器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ybjm",
+        "trans": [
+            "邮件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yilq",
+        "trans": [
+            "遗留",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ld",
+        "trans": [
+            "量",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hrhh",
+        "trans": [
+            "换行",
             1,
             1
         ]
@@ -5544,6 +5176,46 @@
         ]
     },
     {
+        "name": "lmjx",
+        "trans": [
+            "链接",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uuxtjw",
+        "trans": [
+            "数学家",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "do",
+        "trans": [
+            "多",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mmxddvxdbmig",
+        "trans": [
+            "面向对象编程",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "klfhyrma",
+        "trans": [
+            "开放源码",
+            1,
+            1
+        ]
+    },
+    {
         "name": "iavi",
         "trans": [
             "插值",
@@ -5552,585 +5224,377 @@
         ]
     },
     {
-        "name": "iijqxy",
+        "name": "myvi",
         "trans": [
-            "持久性",
+            "明智",
             1,
             1
         ]
     },
     {
-        "name": "jxuiqi",
+        "name": "jubuxy",
         "trans": [
-            "解释器",
+            "局部性",
             1,
             1
         ]
     },
     {
-        "name": "ybxu",
+        "name": "vgjc",
         "trans": [
-            "有序",
+            "正交",
             1,
             1
         ]
     },
     {
-        "name": "ue",
+        "name": "jy",
         "trans": [
-            "射",
+            "镜",
             1,
             1
         ]
     },
     {
-        "name": "ihgv",
+        "name": "vsvi",
         "trans": [
-            "常规",
+            "中止",
             1,
             1
         ]
     },
     {
-        "name": "gssi",
+        "name": "vixy",
         "trans": [
-            "公司",
+            "执行",
             1,
             1
         ]
     },
     {
-        "name": "xyqi",
+        "name": "qmyi",
         "trans": [
-            "行期",
+            "迁移",
             1,
             1
         ]
     },
     {
-        "name": "klfa",
+        "name": "fu",
         "trans": [
-            "开发",
+            "覆",
             1,
             1
         ]
     },
     {
-        "name": "liig",
+        "name": "jcji",
         "trans": [
-            "例程",
+            "交集",
             1,
             1
         ]
     },
     {
-        "name": "jmvd",
+        "name": "jiqivily",
         "trans": [
-            "健壮",
+            "机器指令",
             1,
             1
         ]
     },
     {
-        "name": "igui",
+        "name": "zvxc",
         "trans": [
-            "程式",
+            "最小",
             1,
             1
         ]
     },
     {
-        "name": "mfhu",
+        "name": "liui",
         "trans": [
-            "门户",
+            "历史",
             1,
             1
         ]
     },
     {
-        "name": "pymujxtu",
+        "name": "idye",
         "trans": [
-            "屏幕截图",
+            "创业",
             1,
             1
         ]
     },
     {
-        "name": "jmdj",
+        "name": "igyr",
         "trans": [
-            "简单",
+            "成员",
             1,
             1
         ]
     },
     {
-        "name": "ynqi",
+        "name": "hvwf",
         "trans": [
-            "引起",
+            "回文",
             1,
             1
         ]
     },
     {
-        "name": "xcxx",
+        "name": "mmxddvxd",
         "trans": [
-            "小写",
+            "面向对象",
             1,
             1
         ]
     },
     {
-        "name": "yu",
+        "name": "xrxd",
         "trans": [
-            "预",
+            "选项",
             1,
             1
         ]
     },
     {
-        "name": "pjdr",
+        "name": "xdmm",
         "trans": [
-            "判断",
+            "相面",
             1,
             1
         ]
     },
     {
-        "name": "vgzebcdaui",
+        "name": "klxc",
         "trans": [
-            "正则表达式",
+            "开销",
             1,
             1
         ]
     },
     {
-        "name": "bmigyuyj",
+        "name": "jiyi",
         "trans": [
-            "编程语言",
+            "记忆",
             1,
             1
         ]
     },
     {
-        "name": "ynbi",
+        "name": "fjui",
         "trans": [
-            "隐蔽",
+            "范式",
             1,
             1
         ]
     },
     {
-        "name": "ving",
+        "name": "hulmwh",
         "trans": [
-            "智能",
+            "互联网",
             1,
             1
         ]
     },
     {
-        "name": "iucp",
+        "name": "zlxm",
         "trans": [
-            "储存",
+            "在线",
             1,
             1
         ]
     },
     {
-        "name": "jmvdxy",
+        "name": "ksjm",
         "trans": [
-            "健壮性",
+            "空间",
             1,
             1
         ]
     },
     {
-        "name": "vuyk",
+        "name": "kexr",
         "trans": [
-            "主要",
+            "可选",
             1,
             1
         ]
     },
     {
-        "name": "vsgb",
+        "name": "vszl",
         "trans": [
-            "重构",
+            "重载",
             1,
             1
         ]
     },
     {
-        "name": "wzvily",
+        "name": "zovi",
         "trans": [
-            "伪指令",
+            "左值",
             1,
             1
         ]
     },
     {
-        "name": "ugyu",
+        "name": "vjwz",
         "trans": [
-            "剩余",
+            "占位",
             1,
             1
         ]
     },
     {
-        "name": "dr",
+        "name": "zirjyuyjiuli",
         "trans": [
-            "短",
+            "自然语言处理",
             1,
             1
         ]
     },
     {
-        "name": "fjue",
+        "name": "mouipipz",
         "trans": [
-            "反射",
+            "模式匹配",
             1,
             1
         ]
     },
     {
-        "name": "rubm",
+        "name": "huii",
         "trans": [
-            "蠕变",
+            "互斥",
             1,
             1
         ]
     },
     {
-        "name": "bmma",
+        "name": "moky",
         "trans": [
-            "编码",
+            "模块",
             1,
             1
         ]
     },
     {
-        "name": "yryu",
+        "name": "anvi",
         "trans": [
-            "原语",
+            "按址",
             1,
             1
         ]
     },
     {
-        "name": "ip",
+        "name": "ytuutcjm",
         "trans": [
-            "纯",
+            "约束条件",
             1,
             1
         ]
     },
     {
-        "name": "hs",
+        "name": "uubc",
         "trans": [
-            "宏",
+            "鼠标",
             1,
             1
         ]
     },
     {
-        "name": "daynji",
+        "name": "xcxiirdi",
         "trans": [
-            "打印机",
+            "消息传递",
             1,
             1
         ]
     },
     {
-        "name": "pmdr",
+        "name": "xrzexy",
         "trans": [
-            "片段",
+            "选择性",
             1,
             1
         ]
     },
     {
-        "name": "go",
+        "name": "yyuehjuu",
         "trans": [
-            "过",
+            "映射函数",
             1,
             1
         ]
     },
     {
-        "name": "kysu",
+        "name": "tcvijxtcqi",
         "trans": [
-            "快速",
+            "调制解调器",
             1,
             1
         ]
     },
     {
-        "name": "xdmu",
+        "name": "bxjc",
         "trans": [
-            "项目",
+            "蹩脚",
             1,
             1
         ]
     },
     {
-        "name": "wzvi",
+        "name": "xcxi",
         "trans": [
-            "位置",
+            "消息",
             1,
             1
         ]
     },
     {
-        "name": "jilu",
+        "name": "ffbu",
         "trans": [
-            "记录",
+            "分步",
             1,
             1
         ]
     },
     {
-        "name": "fuzoys",
+        "name": "cldj",
         "trans": [
-            "副作用",
+            "菜单",
             1,
             1
         ]
     },
     {
-        "name": "vggv",
+        "name": "jihw",
         "trans": [
-            "正规",
+            "计画",
             1,
             1
         ]
     },
     {
-        "name": "skmc",
+        "name": "zirjyuyj",
         "trans": [
-            "扫描",
+            "自然语言",
             1,
             1
         ]
     },
     {
-        "name": "jcubjw",
+        "name": "iuxy",
         "trans": [
-            "脚手架",
+            "雏形",
             1,
             1
         ]
     },
     {
-        "name": "keyivixy",
+        "name": "vsjmjm",
         "trans": [
-            "可移植性",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "suuu",
-        "trans": [
-            "素数",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hudu",
-        "trans": [
-            "弧度",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yrug",
-        "trans": [
-            "原生",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gvdy",
-        "trans": [
-            "规定",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gozk",
-        "trans": [
-            "过早",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "le",
-        "trans": [
-            "了",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fhan",
-        "trans": [
-            "方案",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ynhk",
-        "trans": [
-            "引号",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vucebc",
-        "trans": [
-            "注册表",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "drkb",
-        "trans": [
-            "端口",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ffhk",
-        "trans": [
-            "分号",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qmuu",
-        "trans": [
-            "前述",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xulx",
-        "trans": [
-            "序列",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qdvj",
-        "trans": [
-            "抢占",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qyqq",
-        "trans": [
-            "请求",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jyhw",
-        "trans": [
-            "精化",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fjhv",
-        "trans": [
-            "返回",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ug",
-        "trans": [
-            "升",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wz",
-        "trans": [
-            "伪",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ybig",
-        "trans": [
-            "游程",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vild",
-        "trans": [
-            "质量",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yuyi",
-        "trans": [
-            "语义",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "djdr",
-        "trans": [
-            "单段",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jicpqi",
-        "trans": [
-            "寄存器",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vildbkvg",
-        "trans": [
-            "质量保证",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xnhkld",
-        "trans": [
-            "信号量",
+            "中间件",
             1,
             1
         ]
@@ -6144,249 +5608,9 @@
         ]
     },
     {
-        "name": "bcxm",
-        "trans": [
-            "表现",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "doxdui",
-        "trans": [
-            "多项式",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xili",
-        "trans": [
-            "犀利",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xpxu",
-        "trans": [
-            "循序",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tkjxzi",
-        "trans": [
-            "套接字",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lpxp",
-        "trans": [
-            "轮询",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fjhvvi",
-        "trans": [
-            "返回值",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xwtv",
-        "trans": [
-            "下推",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xxxm",
-        "trans": [
-            "斜线",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "grxiuujuku",
-        "trans": [
-            "关系数据库",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxxidu",
-        "trans": [
-            "解析度",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hbxu",
-        "trans": [
-            "后序",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yp",
-        "trans": [
-            "运",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zv",
-        "trans": [
-            "最",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jcbfyuyj",
-        "trans": [
-            "脚本语言",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "igxuyr",
-        "trans": [
-            "程序员",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xulxhw",
-        "trans": [
-            "序列化",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dvlx",
-        "trans": [
-            "队列",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wzjy",
-        "trans": [
-            "未经",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pymu",
-        "trans": [
-            "屏幕",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yrig",
-        "trans": [
-            "远程",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pytl",
-        "trans": [
-            "平台",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxhe",
-        "trans": [
-            "结合",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "cjkk",
-        "trans": [
-            "参考",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "cktu",
-        "trans": [
-            "草图",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tiuifu",
-        "trans": [
-            "提示符",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bcld",
-        "trans": [
-            "标量",
-            1,
-            1
-        ]
-    },
-    {
         "name": "jyvg",
         "trans": [
             "竞争",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vsys",
-        "trans": [
-            "重用",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ugijli",
-        "trans": [
-            "生产力",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "moni",
-        "trans": [
-            "模拟",
             1,
             1
         ]
@@ -6400,89 +5624,777 @@
         ]
     },
     {
-        "name": "qxff",
+        "name": "bcxm",
         "trans": [
-            "切分",
+            "表现",
             1,
             1
         ]
     },
     {
-        "name": "jxgbxy",
+        "name": "qdvj",
         "trans": [
-            "结构型",
+            "抢占",
             1,
             1
         ]
     },
     {
-        "name": "wfbf",
+        "name": "kysu",
         "trans": [
-            "文本",
+            "快速",
             1,
             1
         ]
     },
     {
-        "name": "bcvp",
+        "name": "xxxm",
         "trans": [
-            "标准",
+            "斜线",
             1,
             1
         ]
     },
     {
-        "name": "gwqi",
+        "name": "bmma",
         "trans": [
-            "挂起",
+            "编码",
             1,
             1
         ]
     },
     {
-        "name": "lnui",
+        "name": "pjdr",
         "trans": [
-            "临时",
+            "判断",
             1,
             1
         ]
     },
     {
-        "name": "uomy",
+        "name": "wzvi",
         "trans": [
-            "说明",
+            "位置",
             1,
             1
         ]
     },
     {
-        "name": "yicixy",
+        "name": "fjhvvi",
         "trans": [
-            "一次性",
+            "返回值",
             1,
             1
         ]
     },
     {
-        "name": "jchr",
+        "name": "fjhv",
         "trans": [
-            "交换",
+            "返回",
             1,
             1
         ]
     },
     {
-        "name": "sj",
+        "name": "cktu",
         "trans": [
-            "三",
+            "草图",
             1,
             1
         ]
     },
     {
-        "name": "yimm",
+        "name": "qmuu",
         "trans": [
-            "意面",
+            "前述",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "keyivixy",
+        "trans": [
+            "可移植性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fjue",
+        "trans": [
+            "反射",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gvdy",
+        "trans": [
+            "规定",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pymujxtu",
+        "trans": [
+            "屏幕截图",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yrug",
+        "trans": [
+            "原生",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "drkb",
+        "trans": [
+            "端口",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ugyu",
+        "trans": [
+            "剩余",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jcubjw",
+        "trans": [
+            "脚手架",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qyqq",
+        "trans": [
+            "请求",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ugijli",
+        "trans": [
+            "生产力",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xili",
+        "trans": [
+            "犀利",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xdmu",
+        "trans": [
+            "项目",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pmdr",
+        "trans": [
+            "片段",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmvdxy",
+        "trans": [
+            "健壮性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzvily",
+        "trans": [
+            "伪指令",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fhan",
+        "trans": [
+            "方案",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vggv",
+        "trans": [
+            "正规",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "go",
+        "trans": [
+            "过",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zv",
+        "trans": [
+            "最",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yuyi",
+        "trans": [
+            "语义",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xulxhw",
+        "trans": [
+            "序列化",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hbxu",
+        "trans": [
+            "后序",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcld",
+        "trans": [
+            "标量",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yu",
+        "trans": [
+            "预",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "skmc",
+        "trans": [
+            "扫描",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ynqi",
+        "trans": [
+            "引起",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yrig",
+        "trans": [
+            "远程",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ynbi",
+        "trans": [
+            "隐蔽",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pymu",
+        "trans": [
+            "屏幕",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vildbkvg",
+        "trans": [
+            "质量保证",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xcxx",
+        "trans": [
+            "小写",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "moni",
+        "trans": [
+            "模拟",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vsys",
+        "trans": [
+            "重用",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jcbfyuyj",
+        "trans": [
+            "脚本语言",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lpxp",
+        "trans": [
+            "轮询",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "cjkk",
+        "trans": [
+            "参考",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "igxuyr",
+        "trans": [
+            "程序员",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "igui",
+        "trans": [
+            "程式",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ip",
+        "trans": [
+            "纯",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vuyk",
+        "trans": [
+            "主要",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yryu",
+        "trans": [
+            "原语",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mfhu",
+        "trans": [
+            "门户",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hs",
+        "trans": [
+            "宏",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ug",
+        "trans": [
+            "升",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "suuu",
+        "trans": [
+            "素数",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "iucp",
+        "trans": [
+            "储存",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "klfa",
+        "trans": [
+            "开发",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jicpqi",
+        "trans": [
+            "寄存器",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vgzebcdaui",
+        "trans": [
+            "正则表达式",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "le",
+        "trans": [
+            "了",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xpxu",
+        "trans": [
+            "循序",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "doxdui",
+        "trans": [
+            "多项式",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xwtv",
+        "trans": [
+            "下推",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmdj",
+        "trans": [
+            "简单",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bmigyuyj",
+        "trans": [
+            "编程语言",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xyqi",
+        "trans": [
+            "行期",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xulx",
+        "trans": [
+            "序列",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "daynji",
+        "trans": [
+            "打印机",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xnhkld",
+        "trans": [
+            "信号量",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jilu",
+        "trans": [
+            "记录",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "djdr",
+        "trans": [
+            "单段",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wzjy",
+        "trans": [
+            "未经",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hudu",
+        "trans": [
+            "弧度",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "liig",
+        "trans": [
+            "例程",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "isgb",
+        "trans": [
+            "重构",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuzoys",
+        "trans": [
+            "副作用",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wz",
+        "trans": [
+            "伪",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ving",
+        "trans": [
+            "智能",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dr",
+        "trans": [
+            "短",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pytl",
+        "trans": [
+            "平台",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxxidu",
+        "trans": [
+            "解析度",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "grxiuujuku",
+        "trans": [
+            "关系数据库",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vucebc",
+        "trans": [
+            "注册表",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ynhk",
+        "trans": [
+            "引号",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rubm",
+        "trans": [
+            "蠕变",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tiuifu",
+        "trans": [
+            "提示符",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yp",
+        "trans": [
+            "运",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ybig",
+        "trans": [
+            "游程",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ffhk",
+        "trans": [
+            "分号",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dvlx",
+        "trans": [
+            "队列",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vild",
+        "trans": [
+            "质量",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gozk",
+        "trans": [
+            "过早",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tkjxzi",
+        "trans": [
+            "套接字",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jyhw",
+        "trans": [
+            "精化",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxhe",
+        "trans": [
+            "结合",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jmvd",
+        "trans": [
+            "健壮",
             1,
             1
         ]
@@ -6496,38 +6408,6 @@
         ]
     },
     {
-        "name": "qd",
-        "trans": [
-            "强",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jihk",
-        "trans": [
-            "记号",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bcge",
-        "trans": [
-            "表格",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jyly",
-        "trans": [
-            "精灵",
-            1,
-            1
-        ]
-    },
-    {
         "name": "ifuu",
         "trans": [
             "陈述",
@@ -6536,81 +6416,9 @@
         ]
     },
     {
-        "name": "pyfhgf",
-        "trans": [
-            "平方根",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zidyxdxw",
-        "trans": [
-            "自顶向下",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mmtc",
-        "trans": [
-            "面条",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "pkiu",
-        "trans": [
-            "抛出",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wfbfwfjm",
-        "trans": [
-            "文本文件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uiys",
-        "trans": [
-            "使用",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jxvi",
-        "trans": [
-            "节制",
-            1,
-            1
-        ]
-    },
-    {
         "name": "pgvd",
         "trans": [
             "碰撞",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ku",
-        "trans": [
-            "库",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ik",
-        "trans": [
-            "超",
             1,
             1
         ]
@@ -6632,113 +6440,17 @@
         ]
     },
     {
-        "name": "fuhk",
+        "name": "jihk",
         "trans": [
-            "符号",
+            "记号",
             1,
             1
         ]
     },
     {
-        "name": "pyfh",
+        "name": "gwqi",
         "trans": [
-            "平方",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zshevg",
-        "trans": [
-            "综合症",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "viii",
-        "trans": [
-            "支持",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lajiybjm",
-        "trans": [
-            "垃圾邮件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vg",
-        "trans": [
-            "帧",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bcqm",
-        "trans": [
-            "标签",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zi",
-        "trans": [
-            "子",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ziji",
-        "trans": [
-            "子集",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bkcp",
-        "trans": [
-            "保存",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uijm",
-        "trans": [
-            "时间",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vvzs",
-        "trans": [
-            "追踪",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vdtl",
-        "trans": [
-            "状态",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dycg",
-        "trans": [
-            "顶层",
+            "挂起",
             1,
             1
         ]
@@ -6752,17 +6464,105 @@
         ]
     },
     {
-        "name": "yrdlma",
+        "name": "ziigxu",
         "trans": [
-            "源代码",
+            "子程序",
             1,
             1
         ]
     },
     {
-        "name": "vdtlji",
+        "name": "pkiu",
         "trans": [
-            "状态机",
+            "抛出",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zidyxdxw",
+        "trans": [
+            "自顶向下",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ziji",
+        "trans": [
+            "子集",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ku",
+        "trans": [
+            "库",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uomy",
+        "trans": [
+            "说明",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ik",
+        "trans": [
+            "超",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcqm",
+        "trans": [
+            "标签",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lnui",
+        "trans": [
+            "临时",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wfbfwfjm",
+        "trans": [
+            "文本文件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jyly",
+        "trans": [
+            "精灵",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yicixy",
+        "trans": [
+            "一次性",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vg",
+        "trans": [
+            "帧",
             1,
             1
         ]
@@ -6776,9 +6576,209 @@
         ]
     },
     {
-        "name": "ziigxu",
+        "name": "lajiybjm",
         "trans": [
-            "子程序",
+            "垃圾邮件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uijm",
+        "trans": [
+            "时间",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fuhk",
+        "trans": [
+            "符号",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "子",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qd",
+        "trans": [
+            "强",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vdtl",
+        "trans": [
+            "状态",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcvp",
+        "trans": [
+            "标准",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pyfh",
+        "trans": [
+            "平方",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yrdlma",
+        "trans": [
+            "源代码",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yimm",
+        "trans": [
+            "意面",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uiys",
+        "trans": [
+            "使用",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dycg",
+        "trans": [
+            "顶层",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mmtc",
+        "trans": [
+            "面条",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bkcp",
+        "trans": [
+            "保存",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "viii",
+        "trans": [
+            "支持",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "io",
+        "trans": [
+            "戳",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vdtlji",
+        "trans": [
+            "状态机",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bcge",
+        "trans": [
+            "表格",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qxff",
+        "trans": [
+            "切分",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zshevg",
+        "trans": [
+            "综合症",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jchr",
+        "trans": [
+            "交换",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pyfhgf",
+        "trans": [
+            "平方根",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wfbf",
+        "trans": [
+            "文本",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jxvi",
+        "trans": [
+            "节制",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vvzs",
+        "trans": [
+            "追踪",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "sj",
+        "trans": [
+            "三",
             1,
             1
         ]
@@ -6792,9 +6792,9 @@
         ]
     },
     {
-        "name": "io",
+        "name": "jxgbxy",
         "trans": [
-            "戳",
+            "结构型",
             1,
             1
         ]
