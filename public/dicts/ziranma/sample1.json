@@ -1,80 +1,72 @@
 [
     {
-        "name": "nage",
+        "name": "yige",
         "trans": [
-            "那个",
+            "一个",
             1,
             1
         ]
     },
     {
-        "name": "vege",
+        "name": "kjjm",
         "trans": [
-            "这个",
+            "看见",
             1,
             1
         ]
     },
     {
-        "name": "ni",
+        "name": "qi",
         "trans": [
-            "你",
+            "其",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uh",
+        "trans": [
+            "上",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "go",
+        "trans": [
+            "国",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hb",
+        "trans": [
+            "后",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vexx",
+        "trans": [
+            "这些",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ta",
+        "trans": [
+            "他",
             2,
             1
         ]
     },
     {
-        "name": "rf",
+        "name": "na",
         "trans": [
-            "人",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ci",
-        "trans": [
-            "次",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vidk",
-        "trans": [
-            "知道",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jq",
-        "trans": [
-            "就",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yijy",
-        "trans": [
-            "已经",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fuqn",
-        "trans": [
-            "父亲",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "difh",
-        "trans": [
-            "地方",
+            "那",
             1,
             1
         ]
@@ -88,17 +80,65 @@
         ]
     },
     {
-        "name": "ui",
+        "name": "ziji",
         "trans": [
-            "是",
+            "自己",
             1,
             1
         ]
     },
     {
-        "name": "na",
+        "name": "ye",
         "trans": [
-            "那",
+            "也",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "vidk",
+        "trans": [
+            "知道",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "得",
+            2,
+            1
+        ]
+    },
+    {
+        "name": "jq",
+        "trans": [
+            "就",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xwll",
+        "trans": [
+            "下来",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "时",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ke",
+        "trans": [
+            "可",
             1,
             1
         ]
@@ -106,39 +146,23 @@
     {
         "name": "ve",
         "trans": [
-            "着",
+            "这",
             1,
             1
         ]
     },
     {
-        "name": "mz",
+        "name": "bung",
         "trans": [
-            "没",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "dk",
-        "trans": [
-            "道",
+            "不能",
             1,
             1
         ]
     },
     {
-        "name": "ge",
+        "name": "rf",
         "trans": [
-            "个",
-            4,
-            1
-        ]
-    },
-    {
-        "name": "zfme",
-        "trans": [
-            "怎么",
+            "人",
             1,
             1
         ]
@@ -160,593 +184,9 @@
         ]
     },
     {
-        "name": "de",
-        "trans": [
-            "的",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "de",
-        "trans": [
-            "得",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "mf",
-        "trans": [
-            "们",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uf",
-        "trans": [
-            "什",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "qi",
-        "trans": [
-            "其",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "er",
-        "trans": [
-            "而",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xw",
-        "trans": [
-            "下",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ke",
-        "trans": [
-            "可",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "go",
-        "trans": [
-            "国",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nm",
-        "trans": [
-            "年",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dv",
-        "trans": [
-            "对",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "di",
-        "trans": [
-            "地",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yjjy",
-        "trans": [
-            "眼睛",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "veyh",
-        "trans": [
-            "这样",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yi",
-        "trans": [
-            "一",
-            8,
-            1
-        ]
-    },
-    {
-        "name": "ug",
-        "trans": [
-            "生",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xmzl",
-        "trans": [
-            "现在",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "iull",
-        "trans": [
-            "出来",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ui",
-        "trans": [
-            "事",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ll",
-        "trans": [
-            "来",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ufme",
-        "trans": [
-            "什么",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "wo",
-        "trans": [
-            "我",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "vi",
-        "trans": [
-            "之",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "so",
-        "trans": [
-            "所",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vevs",
-        "trans": [
-            "这种",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "iu",
-        "trans": [
-            "出",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yi",
-        "trans": [
-            "以",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "rh",
-        "trans": [
-            "让",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "xmug",
-        "trans": [
-            "先生",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zi",
-        "trans": [
-            "子",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "da",
-        "trans": [
-            "大",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ld",
-        "trans": [
-            "两",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ve",
-        "trans": [
-            "这",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yidm",
-        "trans": [
-            "一点",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xwll",
-        "trans": [
-            "下来",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dk",
-        "trans": [
-            "到",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "bung",
-        "trans": [
-            "不能",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nvrf",
-        "trans": [
-            "女人",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ye",
-        "trans": [
-            "也",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "tamf",
-        "trans": [
-            "他们",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hlui",
-        "trans": [
-            "还是",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zi",
-        "trans": [
-            "自",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yige",
-        "trans": [
-            "一个",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "kjjm",
-        "trans": [
-            "看见",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uh",
-        "trans": [
-            "上",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "keui",
-        "trans": [
-            "可是",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "womf",
-        "trans": [
-            "我们",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "buvi",
-        "trans": [
-            "不知",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vexx",
-        "trans": [
-            "这些",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ui",
-        "trans": [
-            "时",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yk",
-        "trans": [
-            "要",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vs",
-        "trans": [
-            "种",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uihb",
-        "trans": [
-            "时候",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jtde",
-        "trans": [
-            "觉得",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvll",
-        "trans": [
-            "回来",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xnli",
-        "trans": [
-            "心里",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qu",
-        "trans": [
-            "去",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ziji",
-        "trans": [
-            "自己",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ta",
-        "trans": [
-            "他",
-            2,
-            1
-        ]
-    },
-    {
-        "name": "hlyb",
-        "trans": [
-            "还有",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hb",
-        "trans": [
-            "后",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mzyb",
-        "trans": [
-            "没有",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nimf",
-        "trans": [
-            "你们",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "keyi",
-        "trans": [
-            "可以",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "uo",
-        "trans": [
-            "说",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "le",
-        "trans": [
-            "了",
-            1,
-            1
-        ]
-    },
-    {
         "name": "li",
         "trans": [
             "里",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "he",
-        "trans": [
-            "和",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vs",
-        "trans": [
-            "中",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ynwz",
-        "trans": [
-            "因为",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "veme",
-        "trans": [
-            "这么",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qill",
-        "trans": [
-            "起来",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "name",
-        "trans": [
-            "那么",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dsxi",
-        "trans": [
-            "东西",
             1,
             1
         ]
@@ -760,6 +200,142 @@
         ]
     },
     {
+        "name": "de",
+        "trans": [
+            "的",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yijy",
+        "trans": [
+            "已经",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "name",
+        "trans": [
+            "那么",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "womf",
+        "trans": [
+            "我们",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tamf",
+        "trans": [
+            "他们",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ug",
+        "trans": [
+            "生",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "keyi",
+        "trans": [
+            "可以",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hlyb",
+        "trans": [
+            "还有",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "地",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ge",
+        "trans": [
+            "个",
+            4,
+            1
+        ]
+    },
+    {
+        "name": "hlzi",
+        "trans": [
+            "孩子",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xmzl",
+        "trans": [
+            "现在",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "事",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "到",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "iu",
+        "trans": [
+            "出",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vs",
+        "trans": [
+            "中",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ui",
+        "trans": [
+            "是",
+            1,
+            1
+        ]
+    },
+    {
         "name": "zl",
         "trans": [
             "在",
@@ -768,25 +344,9 @@
         ]
     },
     {
-        "name": "ugho",
+        "name": "nvrf",
         "trans": [
-            "生活",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ng",
-        "trans": [
-            "能",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hlzi",
-        "trans": [
-            "孩子",
+            "女人",
             1,
             1
         ]
@@ -800,561 +360,441 @@
         ]
     },
     {
-        "name": "uihu",
+        "name": "uo",
         "trans": [
-            "似乎",
+            "说",
             1,
             1
         ]
     },
     {
-        "name": "wfti",
+        "name": "ll",
         "trans": [
-            "问题",
+            "来",
             1,
             1
         ]
     },
     {
-        "name": "bybu",
+        "name": "so",
         "trans": [
-            "并不",
+            "所",
             1,
             1
         ]
     },
     {
-        "name": "tc",
+        "name": "yidm",
         "trans": [
-            "条",
+            "一点",
             1,
             1
         ]
     },
     {
-        "name": "goqu",
+        "name": "vs",
         "trans": [
-            "过去",
+            "种",
             1,
             1
         ]
     },
     {
-        "name": "uiqy",
+        "name": "xmug",
         "trans": [
-            "事情",
+            "先生",
             1,
             1
         ]
     },
     {
-        "name": "rugo",
+        "name": "iull",
         "trans": [
-            "如果",
+            "出来",
             1,
             1
         ]
     },
     {
-        "name": "douk",
+        "name": "veyh",
         "trans": [
-            "多少",
+            "这样",
             1,
             1
         ]
     },
     {
-        "name": "turj",
+        "name": "le",
         "trans": [
-            "突然",
+            "了",
             1,
             1
         ]
     },
     {
-        "name": "uijm",
+        "name": "nimf",
         "trans": [
-            "时间",
+            "你们",
             1,
             1
         ]
     },
     {
-        "name": "ugyn",
+        "name": "ve",
         "trans": [
-            "声音",
+            "着",
             1,
             1
         ]
     },
     {
-        "name": "soyi",
+        "name": "yjjy",
         "trans": [
-            "所以",
+            "眼睛",
             1,
             1
         ]
     },
     {
-        "name": "klui",
+        "name": "zfme",
         "trans": [
-            "开始",
+            "怎么",
             1,
             1
         ]
     },
     {
-        "name": "vj",
+        "name": "nm",
         "trans": [
-            "站",
+            "年",
             1,
             1
         ]
     },
     {
-        "name": "yidy",
+        "name": "zi",
         "trans": [
-            "一定",
+            "子",
             1,
             1
         ]
     },
     {
-        "name": "yibj",
+        "name": "ci",
         "trans": [
-            "一般",
+            "次",
             1,
             1
         ]
     },
     {
-        "name": "wjuh",
+        "name": "wo",
         "trans": [
-            "晚上",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zjmf",
-        "trans": [
-            "咱们",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vihb",
-        "trans": [
-            "之后",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fzih",
-        "trans": [
-            "非常",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "dier",
-        "trans": [
-            "第二",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yiwz",
-        "trans": [
-            "以为",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ybxx",
-        "trans": [
-            "有些",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yexu",
-        "trans": [
-            "也许",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "gjdk",
-        "trans": [
-            "感到",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yygl",
-        "trans": [
-            "应该",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "zvhb",
-        "trans": [
-            "最后",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lmuh",
-        "trans": [
-            "脸上",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vsgo",
-        "trans": [
-            "中国",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xdqi",
-        "trans": [
-            "想起",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yihb",
-        "trans": [
-            "以后",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "muqn",
-        "trans": [
-            "母亲",
-            1,
+            "我",
+            2,
             1
         ]
     },
     {
-        "name": "yivf",
+        "name": "jtde",
         "trans": [
-            "一阵",
+            "觉得",
             1,
             1
         ]
     },
     {
-        "name": "wjqr",
+        "name": "uf",
         "trans": [
-            "完全",
-            1,
+            "什",
+            2,
             1
         ]
     },
     {
-        "name": "xddk",
+        "name": "dk",
         "trans": [
-            "想到",
+            "道",
             1,
             1
         ]
     },
     {
-        "name": "pgyb",
+        "name": "ni",
         "trans": [
-            "朋友",
-            1,
+            "你",
+            2,
             1
         ]
     },
     {
-        "name": "zsui",
+        "name": "ld",
         "trans": [
-            "总是",
+            "两",
             1,
             1
         ]
     },
     {
-        "name": "gksu",
+        "name": "yi",
         "trans": [
-            "告诉",
-            1,
+            "一",
+            8,
             1
         ]
     },
     {
-        "name": "mama",
+        "name": "vege",
         "trans": [
-            "妈妈",
+            "这个",
             1,
             1
         ]
     },
     {
-        "name": "nayh",
+        "name": "yi",
         "trans": [
-            "那样",
+            "以",
             1,
             1
         ]
     },
     {
-        "name": "xwqu",
+        "name": "vi",
         "trans": [
-            "下去",
+            "之",
             1,
             1
         ]
     },
     {
-        "name": "gz",
+        "name": "nage",
         "trans": [
-            "给",
+            "那个",
             1,
             1
         ]
     },
     {
-        "name": "bxrf",
+        "name": "uihb",
         "trans": [
-            "别人",
+            "时候",
             1,
             1
         ]
     },
     {
-        "name": "xihr",
+        "name": "zi",
         "trans": [
-            "喜欢",
+            "自",
             1,
             1
         ]
     },
     {
-        "name": "whve",
+        "name": "ynwz",
         "trans": [
-            "望着",
+            "因为",
             1,
             1
         ]
     },
     {
-        "name": "erui",
+        "name": "vevs",
         "trans": [
-            "二十",
+            "这种",
             1,
             1
         ]
     },
     {
-        "name": "yivi",
+        "name": "ufme",
         "trans": [
-            "一直",
+            "什么",
             1,
             1
         ]
     },
     {
-        "name": "uuji",
+        "name": "veme",
         "trans": [
-            "书记",
+            "这么",
             1,
             1
         ]
     },
     {
-        "name": "zozl",
+        "name": "dsxi",
         "trans": [
-            "坐在",
+            "东西",
             1,
             1
         ]
     },
     {
-        "name": "jwli",
+        "name": "er",
         "trans": [
-            "家里",
+            "而",
             1,
             1
         ]
     },
     {
-        "name": "naxx",
+        "name": "ng",
         "trans": [
-            "那些",
+            "能",
             1,
             1
         ]
     },
     {
-        "name": "hl",
+        "name": "hlui",
         "trans": [
-            "还",
+            "还是",
             1,
             1
         ]
     },
     {
-        "name": "djui",
+        "name": "da",
         "trans": [
-            "但是",
+            "大",
             1,
             1
         ]
     },
     {
-        "name": "yisi",
+        "name": "rh",
         "trans": [
-            "意思",
-            1,
+            "让",
+            2,
             1
         ]
     },
     {
-        "name": "rfjw",
+        "name": "xnli",
         "trans": [
-            "人家",
+            "心里",
             1,
             1
         ]
     },
     {
-        "name": "xiwh",
+        "name": "fuqn",
         "trans": [
-            "希望",
+            "父亲",
             1,
             1
         ]
     },
     {
-        "name": "yiqx",
+        "name": "mzyb",
         "trans": [
-            "一切",
+            "没有",
             1,
             1
         ]
     },
     {
-        "name": "iuqu",
+        "name": "yk",
         "trans": [
-            "出去",
+            "要",
             1,
             1
         ]
     },
     {
-        "name": "gszo",
+        "name": "difh",
         "trans": [
-            "工作",
+            "地方",
             1,
             1
         ]
     },
     {
-        "name": "dmhw",
+        "name": "buvi",
         "trans": [
-            "电话",
+            "不知",
             1,
             1
         ]
     },
     {
-        "name": "hkxd",
+        "name": "ugho",
         "trans": [
-            "好像",
+            "生活",
             1,
             1
         ]
     },
     {
-        "name": "yhzi",
+        "name": "qu",
         "trans": [
-            "样子",
+            "去",
             1,
             1
         ]
     },
     {
-        "name": "erqx",
+        "name": "dv",
         "trans": [
-            "而且",
+            "对",
             1,
             1
         ]
     },
     {
-        "name": "jntm",
+        "name": "hvll",
         "trans": [
-            "今天",
+            "回来",
             1,
             1
         ]
     },
     {
-        "name": "gssi",
+        "name": "keui",
         "trans": [
-            "公司",
+            "可是",
             1,
             1
         ]
     },
     {
-        "name": "baba",
+        "name": "xw",
         "trans": [
-            "爸爸",
+            "下",
             1,
             1
         ]
     },
     {
-        "name": "ybdm",
+        "name": "he",
         "trans": [
-            "有点",
+            "和",
             1,
             1
         ]
     },
     {
-        "name": "dhrj",
+        "name": "mz",
         "trans": [
-            "当然",
-            1,
+            "没",
+            2,
             1
         ]
     },
     {
-        "name": "yuui",
+        "name": "mf",
         "trans": [
-            "于是",
+            "们",
             1,
             1
         ]
     },
     {
-        "name": "keng",
+        "name": "qill",
         "trans": [
-            "可能",
+            "起来",
             1,
             1
         ]
@@ -1368,6 +808,70 @@
         ]
     },
     {
+        "name": "mmqm",
+        "trans": [
+            "面前",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "njrf",
+        "trans": [
+            "男人",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dajw",
+        "trans": [
+            "大家",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nayh",
+        "trans": [
+            "那样",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "iuqu",
+        "trans": [
+            "出去",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yhzi",
+        "trans": [
+            "样子",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "turj",
+        "trans": [
+            "突然",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qiui",
+        "trans": [
+            "其实",
+            1,
+            1
+        ]
+    },
+    {
         "name": "svrj",
         "trans": [
             "虽然",
@@ -1376,9 +880,17 @@
         ]
     },
     {
-        "name": "hf",
+        "name": "naxx",
         "trans": [
-            "很",
+            "那些",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "erui",
+        "trans": [
+            "二十",
             1,
             1
         ]
@@ -1392,81 +904,65 @@
         ]
     },
     {
-        "name": "mmqm",
+        "name": "yidy",
         "trans": [
-            "面前",
+            "一定",
             1,
             1
         ]
     },
     {
-        "name": "uohw",
+        "name": "erqx",
         "trans": [
-            "说话",
+            "而且",
             1,
             1
         ]
     },
     {
-        "name": "rjhb",
+        "name": "dmhw",
         "trans": [
-            "然后",
+            "电话",
             1,
             1
         ]
     },
     {
-        "name": "mybl",
+        "name": "xddk",
         "trans": [
-            "明白",
+            "想到",
             1,
             1
         ]
     },
     {
-        "name": "vgzl",
+        "name": "faxm",
         "trans": [
-            "正在",
+            "发现",
             1,
             1
         ]
     },
     {
-        "name": "erzi",
+        "name": "jntm",
         "trans": [
-            "儿子",
+            "今天",
             1,
             1
         ]
     },
     {
-        "name": "diyi",
+        "name": "jwli",
         "trans": [
-            "第一",
+            "家里",
             1,
             1
         ]
     },
     {
-        "name": "xudo",
+        "name": "bxrf",
         "trans": [
-            "许多",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lkui",
-        "trans": [
-            "老师",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "qiui",
-        "trans": [
-            "其实",
+            "别人",
             1,
             1
         ]
@@ -1488,33 +984,25 @@
         ]
     },
     {
-        "name": "gjjt",
+        "name": "yivi",
         "trans": [
-            "感觉",
+            "一直",
             1,
             1
         ]
     },
     {
-        "name": "kjdk",
+        "name": "uohw",
         "trans": [
-            "看到",
+            "说话",
             1,
             1
         ]
     },
     {
-        "name": "dajw",
+        "name": "baba",
         "trans": [
-            "大家",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hver",
-        "trans": [
-            "会儿",
+            "爸爸",
             1,
             1
         ]
@@ -1528,25 +1016,177 @@
         ]
     },
     {
-        "name": "njrf",
+        "name": "tc",
         "trans": [
-            "男人",
+            "条",
             1,
             1
         ]
     },
     {
-        "name": "gund",
+        "name": "yisi",
         "trans": [
-            "姑娘",
+            "意思",
             1,
             1
         ]
     },
     {
-        "name": "tltl",
+        "name": "gjdk",
         "trans": [
-            "太太",
+            "感到",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uuji",
+        "trans": [
+            "书记",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zsui",
+        "trans": [
+            "总是",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yygl",
+        "trans": [
+            "应该",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "sihu",
+        "trans": [
+            "似乎",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zozl",
+        "trans": [
+            "坐在",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dier",
+        "trans": [
+            "第二",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gssi",
+        "trans": [
+            "公司",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fzih",
+        "trans": [
+            "非常",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uijm",
+        "trans": [
+            "时间",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yihb",
+        "trans": [
+            "以后",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xudo",
+        "trans": [
+            "许多",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gksu",
+        "trans": [
+            "告诉",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vgzl",
+        "trans": [
+            "正在",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "whve",
+        "trans": [
+            "望着",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gjjt",
+        "trans": [
+            "感觉",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wfti",
+        "trans": [
+            "问题",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "dhrj",
+        "trans": [
+            "当然",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "pgyb",
+        "trans": [
+            "朋友",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "klui",
+        "trans": [
+            "开始",
             1,
             1
         ]
@@ -1560,17 +1200,209 @@
         ]
     },
     {
-        "name": "nver",
+        "name": "xihr",
         "trans": [
-            "女儿",
+            "喜欢",
             1,
             1
         ]
     },
     {
-        "name": "uijx",
+        "name": "ybxx",
         "trans": [
-            "世界",
+            "有些",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yiwz",
+        "trans": [
+            "以为",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gund",
+        "trans": [
+            "姑娘",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mama",
+        "trans": [
+            "妈妈",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yivf",
+        "trans": [
+            "一阵",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bybu",
+        "trans": [
+            "并不",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lmuh",
+        "trans": [
+            "脸上",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hl",
+        "trans": [
+            "还",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vj",
+        "trans": [
+            "站",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vsgo",
+        "trans": [
+            "中国",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "douk",
+        "trans": [
+            "多少",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yibj",
+        "trans": [
+            "一般",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wjuh",
+        "trans": [
+            "晚上",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hver",
+        "trans": [
+            "会儿",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "wjqr",
+        "trans": [
+            "完全",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zjmf",
+        "trans": [
+            "咱们",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uiqy",
+        "trans": [
+            "事情",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lkui",
+        "trans": [
+            "老师",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xdqi",
+        "trans": [
+            "想起",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yiqx",
+        "trans": [
+            "一切",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yuui",
+        "trans": [
+            "于是",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xwqu",
+        "trans": [
+            "下去",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "erzi",
+        "trans": [
+            "儿子",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xiwh",
+        "trans": [
+            "希望",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rfjw",
+        "trans": [
+            "人家",
             1,
             1
         ]
@@ -1584,6 +1416,22 @@
         ]
     },
     {
+        "name": "goqu",
+        "trans": [
+            "过去",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yexu",
+        "trans": [
+            "也许",
+            1,
+            1
+        ]
+    },
+    {
         "name": "yiky",
         "trans": [
             "一块",
@@ -1592,65 +1440,161 @@
         ]
     },
     {
-        "name": "faxm",
+        "name": "keng",
         "trans": [
-            "发现",
+            "可能",
             1,
             1
         ]
     },
     {
-        "name": "xcjx",
+        "name": "zvhb",
         "trans": [
-            "小姐",
+            "最后",
             1,
             1
         ]
     },
     {
-        "name": "qykd",
+        "name": "nver",
         "trans": [
-            "情况",
+            "女儿",
             1,
             1
         ]
     },
     {
-        "name": "soyb",
+        "name": "hf",
         "trans": [
-            "所有",
+            "很",
             1,
             1
         ]
     },
     {
-        "name": "gkxy",
+        "name": "soyi",
         "trans": [
-            "高兴",
+            "所以",
             1,
             1
         ]
     },
     {
-        "name": "ubli",
+        "name": "vihb",
         "trans": [
-            "手里",
+            "之后",
             1,
             1
         ]
     },
     {
-        "name": "bjfa",
+        "name": "djui",
         "trans": [
-            "办法",
+            "但是",
             1,
             1
         ]
     },
     {
-        "name": "qyiu",
+        "name": "diyi",
         "trans": [
-            "清楚",
+            "第一",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hkxd",
+        "trans": [
+            "好像",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gz",
+        "trans": [
+            "给",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mybl",
+        "trans": [
+            "明白",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gszo",
+        "trans": [
+            "工作",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "muqn",
+        "trans": [
+            "母亲",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rjhb",
+        "trans": [
+            "然后",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tltl",
+        "trans": [
+            "太太",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ybdm",
+        "trans": [
+            "有点",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ugyn",
+        "trans": [
+            "声音",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rugo",
+        "trans": [
+            "如果",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "kjdk",
+        "trans": [
+            "看到",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uijx",
+        "trans": [
+            "世界",
             1,
             1
         ]
@@ -1664,110 +1608,6 @@
         ]
     },
     {
-        "name": "dlve",
-        "trans": [
-            "带着",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "rfhe",
-        "trans": [
-            "任何",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "jihu",
-        "trans": [
-            "几乎",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ufvi",
-        "trans": [
-            "甚至",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvdk",
-        "trans": [
-            "回到",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "tyjm",
-        "trans": [
-            "听见",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vsyu",
-        "trans": [
-            "终于",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "juhw",
-        "trans": [
-            "句话",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "xtxc",
-        "trans": [
-            "学校",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "nmqy",
-        "trans": [
-            "年轻",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "vurf",
-        "trans": [
-            "主任",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "mauh",
-        "trans": [
-            "马上",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "fhfu",
-        "trans": [
-            "仿佛",
-            1,
-            1
-        ]
-    },
-    {
         "name": "xcve",
         "trans": [
             "笑着",
@@ -1776,9 +1616,25 @@
         ]
     },
     {
-        "name": "kbqi",
+        "name": "navs",
         "trans": [
-            "口气",
+            "那种",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "yifu",
+        "trans": [
+            "衣服",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "zbdk",
+        "trans": [
+            "走到",
             1,
             1
         ]
@@ -1792,9 +1648,57 @@
         ]
     },
     {
-        "name": "tsxt",
+        "name": "ly",
         "trans": [
-            "同学",
+            "另",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "uiff",
+        "trans": [
+            "十分",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "nvhl",
+        "trans": [
+            "女孩",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hvdk",
+        "trans": [
+            "回到",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "juhw",
+        "trans": [
+            "句话",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xcjx",
+        "trans": [
+            "小姐",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "mauh",
+        "trans": [
+            "马上",
             1,
             1
         ]
@@ -1808,33 +1712,73 @@
         ]
     },
     {
-        "name": "xuyk",
+        "name": "nmqy",
         "trans": [
-            "需要",
+            "年轻",
             1,
             1
         ]
     },
     {
-        "name": "likl",
+        "name": "grxi",
         "trans": [
-            "离开",
+            "关系",
             1,
             1
         ]
     },
     {
-        "name": "tydk",
+        "name": "tsxt",
         "trans": [
-            "听到",
+            "同学",
             1,
             1
         ]
     },
     {
-        "name": "hvqu",
+        "name": "vpbz",
         "trans": [
-            "回去",
+            "准备",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "lydk",
+        "trans": [
+            "领导",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "qykd",
+        "trans": [
+            "情况",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "xtxc",
+        "trans": [
+            "学校",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ubli",
+        "trans": [
+            "手里",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hurj",
+        "trans": [
+            "忽然",
             1,
             1
         ]
@@ -1848,9 +1792,129 @@
         ]
     },
     {
+        "name": "qyiu",
+        "trans": [
+            "清楚",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "likl",
+        "trans": [
+            "离开",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "gkxy",
+        "trans": [
+            "高兴",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hvqu",
+        "trans": [
+            "回去",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "soyb",
+        "trans": [
+            "所有",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "bjfa",
+        "trans": [
+            "办法",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jm",
+        "trans": [
+            "件",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "jihu",
+        "trans": [
+            "几乎",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "hvjw",
+        "trans": [
+            "回家",
+            1,
+            1
+        ]
+    },
+    {
         "name": "zirj",
         "trans": [
             "自然",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "ufvi",
+        "trans": [
+            "甚至",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vsyu",
+        "trans": [
+            "终于",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "tydk",
+        "trans": [
+            "听到",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "rjer",
+        "trans": [
+            "然而",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "fhfu",
+        "trans": [
+            "仿佛",
+            1,
+            1
+        ]
+    },
+    {
+        "name": "vurf",
+        "trans": [
+            "主任",
             1,
             1
         ]
@@ -1872,22 +1936,6 @@
         ]
     },
     {
-        "name": "jm",
-        "trans": [
-            "件",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "grxi",
-        "trans": [
-            "关系",
-            1,
-            1
-        ]
-    },
-    {
         "name": "viyk",
         "trans": [
             "只要",
@@ -1896,41 +1944,25 @@
         ]
     },
     {
-        "name": "nvhl",
+        "name": "xuyk",
         "trans": [
-            "女孩",
+            "需要",
             1,
             1
         ]
     },
     {
-        "name": "uiff",
+        "name": "tyjm",
         "trans": [
-            "十分",
+            "听见",
             1,
             1
         ]
     },
     {
-        "name": "rjer",
+        "name": "dlve",
         "trans": [
-            "然而",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "yifu",
-        "trans": [
-            "衣服",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hvjw",
-        "trans": [
-            "回家",
+            "带着",
             1,
             1
         ]
@@ -1944,17 +1976,9 @@
         ]
     },
     {
-        "name": "zbdk",
+        "name": "rfhe",
         "trans": [
-            "走到",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "navs",
-        "trans": [
-            "那种",
+            "任何",
             1,
             1
         ]
@@ -1968,33 +1992,9 @@
         ]
     },
     {
-        "name": "vpbz",
+        "name": "kbqi",
         "trans": [
-            "准备",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "ly",
-        "trans": [
-            "另",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "lydk",
-        "trans": [
-            "领导",
-            1,
-            1
-        ]
-    },
-    {
-        "name": "hurj",
-        "trans": [
-            "忽然",
+            "口气",
             1,
             1
         ]
