@@ -245,6 +245,7 @@ export const dictionaries: Dictionary[] = [
   { id: 'ziranma_sample4', name: 'sample4', description: 'sample4', category: 'ziranma', url: './dicts/ziranma/sample4.json', length: 45 },
   { id: 'ziranma_wiki', name: 'wiki', description: 'wiki', category: 'ziranma', url: './dicts/ziranma/wiki.json', length: 2920 },
   { id: 'ziranma_zhihu', name: 'zhihu', description: 'zhihu', category: 'ziranma', url: './dicts/ziranma/zhihu.json', length: 39966 },
+  { id: 'javadoc', name: 'javadoc', description: 'javadoc', category: 'crawled', url: './dicts/javadoc.json', length: 9403 },
 ]
 
 /**
